@@ -9,7 +9,7 @@
 
 **Note_2:** The English version is not always updated (lack of time). The main efforts are concentrated on the Russian assembly. Assembly for other languages ​​is done by users themselves in `VirtualBox`.
 
-What is this
+What is it
 ---
 `MgaRemix-Proserpina` is a live flash drive with the ability to install on Mageia Linux. It is assembled using [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) technology and is designed for comfortable operation in networks with aggressive censorship.
 
@@ -17,7 +17,7 @@ What is this
 **Wallpapper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen I.)  
 **Other:** LibreOffice, PhotoFlare, Google Chrome (+uBock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
   
-**Last update (.md5 .7z):** fb37ae514a549e5d50c5db97abe26c2f [MgaRemix-9-Proserpina-RU-110624.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
+**Last update (md5 .7z):** fb37ae514a549e5d50c5db97abe26c2f [MgaRemix-9-Proserpina-RU-110624.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
 
 Author's software:
 ---
