@@ -11,7 +11,7 @@
 
 What is it
 ---
-`MgaRemix-Proserpina` is a live flash drive with the ability to install on Mageia Linux. It is assembled using [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) technology and is designed for comfortable operation in networks with aggressive censorship.
+`MgaRemix-Proserpina` is a live installable flash drive based on Mageia Linux. It is assembled using [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) technology and is designed for comfortable operation in networks with aggressive censorship.
 
 **Desktop:** [Budgie-10.9.1](https://github.com/AKotov-dev/budgie-desktop-rpm)  
 **Wallpapper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen I.)  
