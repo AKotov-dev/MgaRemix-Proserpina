@@ -17,8 +17,8 @@ What is it
 **Wallpapper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen I.)  
 **Other:** LibreOffice, PhotoFlare, Google Chrome (+uBock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
-**Last update_EN (md5 .7z):** 9d5393c22df5f888ec2076a5627c1aba [MgaRemix-9-Proserpina-EN-120624.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)  
-**Last update_RU (md5 .7z):** fb37ae514a549e5d50c5db97abe26c2f [MgaRemix-9-Proserpina-RU-110624.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
+**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-120624.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 9d5393c22df5f888ec2076a5627c1aba  
+**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-110624.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) fb37ae514a549e5d50c5db97abe26c2f 
 
 Author's software:
 ---
