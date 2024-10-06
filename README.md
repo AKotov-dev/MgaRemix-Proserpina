@@ -34,7 +34,7 @@ Author's software:
 + [SShuttle-GUI (working with VPS)](https://github.com/AKotov-dev/SShuttle-GUI)
 + [SS-Obfuscator-Client](https://github.com/AKotov-dev/SS-Obfuscator)
 + [SSTP-Connector](https://github.com/AKotov-dev/SSTP-Connector)
-+ [IPsecCaManager(NM: L2TP/IPsec & IKEv2/IPSec)](https://github.com/AKotov-dev/IPsecCaManager)
++ [IPsecCaManager (NM: L2TP/IPsec & IKEv2/IPSec)](https://github.com/AKotov-dev/IPsecCaManager)
 + [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI) (recommended)
 + [LUKSKey (Changing LUKS encrypted partitions keys)](https://github.com/AKotov-dev/LUKSKey)
 + [encrypt-decrypt (Symmetric encryption of files and folders AES-256)](https://github.com/AKotov-dev/encrypt-decrypt)
