@@ -17,8 +17,8 @@ What is it
 **Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen)  
 **Other:** LibreOffice, PhotoFlare, Google Chrome (+uBock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
-**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-240924.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) f35f218c859f0634d91ff8e3b490a062  
-**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-240924.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 9299357cf9c9e653f55c46a36079d541 
+**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-061024.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 8ba830b2c3088144f1e08f5408e17044  
+**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-061024.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 7129a5bb8f51b70b70c5e17b117fb10a 
 
 Author's software:
 ---
@@ -34,6 +34,7 @@ Author's software:
 + [SShuttle-GUI (working with VPS)](https://github.com/AKotov-dev/SShuttle-GUI)
 + [SS-Obfuscator-Client](https://github.com/AKotov-dev/SS-Obfuscator)
 + [SSTP-Connector](https://github.com/AKotov-dev/SSTP-Connector)
++ [IPsecCaManager(NM: L2TP/IPsec & IKEv2/IPSec)](https://github.com/AKotov-dev/IPsecCaManager)
 + [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI) (recommended)
 + [LUKSKey (Changing LUKS encrypted partitions keys)](https://github.com/AKotov-dev/LUKSKey)
 + [encrypt-decrypt (Symmetric encryption of files and folders AES-256)](https://github.com/AKotov-dev/encrypt-decrypt)
