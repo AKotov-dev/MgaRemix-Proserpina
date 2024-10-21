@@ -23,7 +23,7 @@ What is it
 Author's software:
 ---
 + [DNSCrypt-GUI](https://github.com/AKotov-dev/dnscrypt-gui)
-+ [WarpGUI - GUI for Cloudflare ™ WARP](https://github.com/AKotov-dev/warpgui) (Activation from the second or third time. Russia is the leader in the principle of freedom of information)
++ [WarpGUI - GUI for Cloudflare ™ WARP](https://github.com/AKotov-dev/warpgui)
 + [Juggler (VPN Switch)](https://github.com/AKotov-dev/juggler)
 + [Lovpn (*.ovpn loader)](https://github.com/AKotov-dev/lovpn)
 + [Luntik (OpenVPN connector)](https://github.com/AKotov-dev/luntikwg)
