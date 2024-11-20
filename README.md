@@ -22,7 +22,7 @@ What is it
 
 Author's software:
 ---
-В ближайшее время WARP будет замещён Amnezia-VPN... На сегодняшний день WARP активен.
+В ближайшее время WARP будет замещён AmneziaVPN... На сегодняшний день WARP активен.
 
 + [DNSCrypt-GUI](https://github.com/AKotov-dev/dnscrypt-gui)
 + [WarpGUI - GUI for Cloudflare ™ WARP](https://github.com/AKotov-dev/warpgui)
