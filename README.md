@@ -20,7 +20,7 @@ What is it
 **Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 935027e9f623d48a97a12dc335e493f5  
 **Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 8cb6c638697d37b88bc5cfdf0fa67b7e 
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/AmneziaVPN-90.png) **MgaRemix-Proserpina** received a multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including WARP/AmneziaWG), you can now create a VPN on your own server with [high privacy requirements](https://amnezia.org/ru/self-hosted).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/AmneziaVPN-64.png) **MgaRemix-Proserpina** received a multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including WARP/AmneziaWG), you can now create a VPN on your own server with [high privacy requirements](https://amnezia.org/ru/self-hosted).
 
 Author's software:
 ---
