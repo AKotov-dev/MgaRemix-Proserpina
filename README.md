@@ -17,15 +17,17 @@ What is it
 **Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen)  
 **Other:** LibreOffice, PhotoFlare, Google Chrome (+uBock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
-**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-181124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) d3c22e6522ae6b452f13513769a226c1  
-**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-181124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 5d1150768022c22d9cf89ab234688c27 
+**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 935027e9f623d48a97a12dc335e493f5  
+**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 8cb6c638697d37b88bc5cfdf0fa67b7e 
+
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/AmneziaVPN-100.png)
+
+**MgaRemix-Proserpina** получил мультипротокольный vpn-клиент [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). Кроме поддержки множества протоколов (включая WARP/AmneziaWG) теперь можно создать VPN на собственном сервере с высокими требованиями к приватности: [Self-hosted VPN](https://amnezia.org/ru/self-hosted).
 
 Author's software:
 ---
-В ближайшее время WARP будет замещён AmneziaVPN... На сегодняшний день WARP активен.
-
 + [DNSCrypt-GUI](https://github.com/AKotov-dev/dnscrypt-gui)
-+ [WarpGUI - GUI for Cloudflare ™ WARP](https://github.com/AKotov-dev/warpgui)
++ [WarpGUI - GUI for Cloudflare ™ WARP](https://github.com/AKotov-dev/warpgui) - replaced by AmneziaVPN
 + [Juggler (VPN Switch)](https://github.com/AKotov-dev/juggler)
 + [Lovpn (*.ovpn loader)](https://github.com/AKotov-dev/lovpn)
 + [Luntik (OpenVPN connector)](https://github.com/AKotov-dev/luntikwg)
