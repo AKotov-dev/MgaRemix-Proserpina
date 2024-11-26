@@ -24,6 +24,8 @@ Download
 **Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 935027e9f623d48a97a12dc335e493f5  
 **Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 8cb6c638697d37b88bc5cfdf0fa67b7e 
 
+**NEW:* Что дальше? В ближайших релизах, в нижней панели будет присутствовать [Бесплатный чат с нейросетью GPT для интерактивного общения](https://gpt-open.ru/chat-gpt-besplatno/gpt-open). Это будет полезно для студентов и самообразования.
+
 Author's software:
 ---
 + [DNSCrypt-GUI](https://github.com/AKotov-dev/dnscrypt-gui)
