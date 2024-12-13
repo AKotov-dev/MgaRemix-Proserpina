@@ -1,7 +1,7 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/MgaRemix-Proserpina.png?raw=true)
 
-**NEW:** _Прозерпина готовится к выпуску нового релиза. Среди обновлений пользователи увидят реальный контакт с Искусственным Интеллектом в двух вариантах (OpenAI, RU для студентов и самообразования). Дополнительно будет усилен родительский контроль (Censor). Всем надоело читать всякую грязь в лентах. Агрессивные выпады федеральных СМИ и каналы будут заблокированы (по желанию родителей)._
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/santa-64.png) _Прозерпина готовится к выпуску нового релиза. Среди обновлений пользователи увидят реальный контакт с Искусственным Интеллектом в двух вариантах (OpenAI, RU для студентов и самообразования). Дополнительно будет усилен родительский контроль (Censor). Всем надоело читать всякую грязь в лентах. Агрессивные выпады федеральных СМИ и каналы будут заблокированы (по желанию родителей)._
 
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
 
