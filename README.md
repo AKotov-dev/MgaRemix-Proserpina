@@ -1,7 +1,7 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/MgaRemix-Proserpina.png?raw=true)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/santa-64.png) _Прозерпина готовится к выпуску нового релиза. Среди обновлений пользователи увидят реальный контакт с Искусственным Интеллектом в двух вариантах (OpenAI, RU для студентов и самообразования). Дополнительно будет усилен родительский контроль (Censor). Всем надоело читать всякую грязь в лентах. Агрессивные выпады федеральных СМИ и каналы будут заблокированы (по желанию родителей)._
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/santa-64.png) _Прозерпина готовится к выпуску нового релиза. Среди обновлений пользователи увидят реальный контакт с Искусственным Интеллектом в двух вариантах (OpenAI, RU для студентов и самообразования). Дополнительно будет усилен родительский контроль (Censor). Всем надоело читать всякую грязь в лентах. Агрессивные выпады федеральных СМИ и каналы будут заблокированы (по желанию родителей). p.s. Ненавижу новый год. Все эти безумные ёлки, дурацкие коньки, гирлянды. Кому они нужны. Это жопа какая-то. Бессмысленно потраченное время. Лучше код почитать, посмотреть чё как, на багртак сходить, с ребятами чего-то обсудить, баги какие или ещё что, не знаю. Но это?! Нет._
 
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
 
