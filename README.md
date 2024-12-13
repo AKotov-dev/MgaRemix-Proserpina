@@ -1,6 +1,8 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/MgaRemix-Proserpina.png?raw=true)
 
+**NEW:** _Прозерпина готовится к выпуску нового релиза. Среди обновлений пользователи увидят реальный контакт с Искусственным Интеллектом в двух вариантах (OpenAI, RU для студентов и самообразования). Дополнительно будет усилен родительский контроль (Censor). Всем надоело читать всякую грязь в лентах. Агрессивные выпады федеральных СМИ и каналы будут заблокированы._
+
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
 
 **Note_1_[RU]:** Все ссылки, представленные здесь, являются оригинальными. Ссылки на сборку `MgaRemix-Proserpina`, указанные в других источниках могут быть фейковыми или недействительными. Представленные Live сборки и программное обеспечение не поддерживаются разработчиками Mageia.
@@ -23,8 +25,6 @@ Download
 ---
 **Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 935027e9f623d48a97a12dc335e493f5  
 **Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 8cb6c638697d37b88bc5cfdf0fa67b7e 
-
-**NEW:** *Что дальше? В ближайших релизах Прозерпины, в нижней панели будет присутствовать [Бесплатный чат с нейросетью GPT для интерактивного общения](https://gpt-open.ru/chat-gpt-besplatno/gpt-open). Это будет полезно для студентов и самообразования.*
 
 Author's software:
 ---
