@@ -1,7 +1,7 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/MgaRemix-Proserpina.png?raw=true)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/santa-64.png) _Прозерпина готовится к выпуску нового релиза. Среди обновлений пользователи увидят реальный контакт с Искусственным Интеллектом в двух вариантах (OpenAI, RU для студентов и самообразования). Дополнительно будет усилен родительский контроль (Censor). Всем надоело читать всякую грязь в лентах. Агрессивные выпады федеральных СМИ и каналы будут заблокированы (по желанию родителей)._
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/santa-64.png) _Ввиду того, что Прозерпина и так перенасыщена оружием, которое многим не нужно, было принято решение на 2 ближайших месяца оставить всё без изменений. https://www.youtube.com/watch?v=xx-jf-c1ZBM Отдыхайте... Мир Вашему Дому.. Поздравьте с наступающим родных и близких._
 
 _...просили оставить Joe Dassin... Ох, выкинут меня с гита. Ладно... С наступающим всех._
 [Joe Dassin](https://www.youtube.com/watch?v=am7cPq5fJLk&list=RDam7cPq5fJLk&start_radio=1)
