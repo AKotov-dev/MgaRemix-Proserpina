@@ -1,7 +1,7 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/MgaRemix-Proserpina.png?raw=true)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/santa-64.png) _Ввиду того, что Прозерпина и так перенасыщена цифровым оружием, которое многим не нужно, на 2 ближайших месяца оставить всё без изменений. Отдыхайте. Мир Вашему Дому. Поздравьте с наступающим родных и близких._
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/santa-64.png) _Ввиду того, что Прозерпина и так перенасыщена цифровым оружием, которое многим не нужно, на 2 ближайших месяца оставить всё без изменений. Отдыхайте. Мир Вашему Дому. Поздравьте с Наступающим родных и близких._
 
 _...просили оставить Joe Dassin... Ох, выкинут меня с гита. Ладно... С наступающим всех._
 [Joe Dassin](https://www.youtube.com/watch?v=am7cPq5fJLk&list=RDam7cPq5fJLk&start_radio=1)
