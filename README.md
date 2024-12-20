@@ -1,9 +1,6 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/MgaRemix-Proserpina.png?raw=true)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/santa-64.png) _...просили оставить Joe Dassin... С наступающим всех [Joe Dassin](https://www.youtube.com/watch?v=am7cPq5fJLk&list=RDam7cPq5fJLk&start_radio=1)._ Новый релиз Прозерпины выйдет в ночь с 31 декабря на 1 января 2025.
-
-
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
 
 **Note_1_[RU]:** Все ссылки, представленные здесь, являются оригинальными. Ссылки на сборку `MgaRemix-Proserpina`, указанные в других источниках могут быть фейковыми или недействительными. Представленные Live сборки и программное обеспечение не поддерживаются разработчиками Mageia.
