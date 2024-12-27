@@ -1,5 +1,5 @@
 # MgaRemix-Proserpina
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/MgaRemix-Proserpina.png?raw=true)
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/MgaRemix-Proserpina.png?raw=true)
 
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
 
