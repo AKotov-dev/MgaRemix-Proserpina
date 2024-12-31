@@ -1,7 +1,7 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina.png?raw=true)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-64.png) В Новогоднем выпуске **Прозерпины** предоставлен доступ к [Искусственному Интеллекту (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) в двух вариантах: Официальный и Российский. ИИ может быть полезен для студентов и самообразования. Кроме этого установлена программа Родительского Контроля [Censor (блокировщик сайтов)](https://github.com/AKotov-dev/censor).  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png) В Новогоднем выпуске **Прозерпины** предоставлен доступ к [Искусственному Интеллекту (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) в двух вариантах: Официальный и Российский. ИИ может быть полезен для студентов и самообразования. Кроме этого установлена программа Родительского Контроля [Censor (блокировщик сайтов)](https://github.com/AKotov-dev/censor).  
 
 Русская версия `Censor` получила предустановленный список блокировки, который включает всё, что может помешать учебному процессу и трезвости мышления. Блокируются наиболее популярные Российские СМИ (от "известий" до "московской правды"), каналы Центрального Телевидения, Роскомнадзор и другие ведомства, рейтинговые агентства ФОМ, ВЦИОМ и подобные. Так же блокируются yandex, dzen, vk, ok, lenta и другие сомнительные ресурсы.  
 
@@ -26,11 +26,11 @@ What is it
 **Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen)  
 **Other:** LibreOffice, PhotoFlare, Google Chrome (+AdGuard, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-64.png) **MgaRemix-Proserpina** received a multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-48.png) **MgaRemix-Proserpina** received a multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-64.png) **Censor (Website Blocker)**. Parental Control [program](https://github.com/AKotov-dev/censor) for blocking unwanted content on a schedule.
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-48.png) **Censor (Website Blocker)**. Parental Control [program](https://github.com/AKotov-dev/censor) for blocking unwanted content on a schedule.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia.png) **chatgpt-plugin**. This is an [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-48.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-46.png) **chatgpt-plugin**. This is an [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
 
 Download
 ---
