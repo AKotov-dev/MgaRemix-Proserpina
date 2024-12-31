@@ -7,7 +7,7 @@
 
 Блокировка включается по желанию заинтересованных в чистоте контента одним нажатием кнопки. Хорошее сочетание [XRayGUI](https://github.com/AKotov-dev/XRayGUI) + [Censor](https://github.com/AKotov-dev/censor) избавит Вас и Ваших близких от агрессии со стороны вредных и опасных для психики ресурсов.
 
-С Новым Годом, друзья.  
+[С Новым Годом, друзья.](https://www.youtube.com/watch?v=b_nGaikpN6k) 
 --
   
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
