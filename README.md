@@ -1,5 +1,5 @@
 # MgaRemix-Proserpina
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/MgaRemix-Proserpina.png?raw=true)
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina.png?raw=true)
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-64.png) **Анонс:** В Новогоднем выпуске **Прозерпины** Вы получите доступ к [Искусственному Интеллекту (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) в двух вариантах и сможете узнать много интересного из общения с ним. Кроме этого будет установлена программа Родительского Контроля [Censor (блокировщик сайтов)](https://github.com/AKotov-dev/censor).  
 
@@ -30,8 +30,8 @@ What is it
 
 Download
 ---
-**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 935027e9f623d48a97a12dc335e493f5  
-**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-221124.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 8cb6c638697d37b88bc5cfdf0fa67b7e 
+**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-010125.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 15ee73b87b68fb8b537c4f1903ae045c  
+**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-010125.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 8adecbe670c2febc216a1433df46e73e  
 
 Author's software:
 ---
