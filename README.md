@@ -24,9 +24,11 @@ What is it
 
 **Desktop:** [Budgie-10.9.2](https://github.com/AKotov-dev/budgie-desktop-rpm)  
 **Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen)  
-**Other:** LibreOffice, PhotoFlare, Google Chrome (+uBock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
+**Other:** LibreOffice, PhotoFlare, Google Chrome (+AdGuard, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-64.png) **MgaRemix-Proserpina** received a multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-64.png) **MgaRemix-Proserpina** received a multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
+
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia.png) **chatgpt-plugin**. This is an [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
 
 Download
 ---
