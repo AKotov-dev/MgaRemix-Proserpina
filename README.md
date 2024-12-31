@@ -1,13 +1,13 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina.png?raw=true)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-64.png) **Анонс:** В Новогоднем выпуске **Прозерпины** Вы получите доступ к [Искусственному Интеллекту (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) в двух вариантах и сможете узнать много интересного из общения с ним. Кроме этого будет установлена программа Родительского Контроля [Censor (блокировщик сайтов)](https://github.com/AKotov-dev/censor).  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-64.png) В Новогоднем выпуске **Прозерпины** предоставлен доступ к [Искусственному Интеллекту (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) в двух вариантах и сможете узнать много интересного из общения с ним. Кроме этого установлена программа Родительского Контроля [Censor (блокировщик сайтов)](https://github.com/AKotov-dev/censor).  
 
-Русская версия получит предустановленный список блокировки, который будет включать всё, что может помешать учебному процессу и трезвости мышления. Будут заблокированы наиболее популярные Российские СМИ (от "известий" до "московской правды"), каналы Центрального Телевидения, Роскомнадзор и другие ведомства, рейтинговые агентства ФОМ, ВЦИОМ и подобные. Так же будут заблокированы yandex, dzen, vk, ok, lenta и другие сомнительные ресурсы.  
+Русская версия получила предустановленный список блокировки, который включает всё, что может помешать учебному процессу и трезвости мышления. Списком блокируются наиболее популярные Российские СМИ (от "известий" до "московской правды"), каналы Центрального Телевидения, Роскомнадзор и другие ведомства, рейтинговые агентства ФОМ, ВЦИОМ и подобные. Так же блокируются yandex, dzen, vk, ok, lenta и другие сомнительные ресурсы.  
 
 Блокировка включается по желанию заинтересованных в чистоте контента одним нажатием кнопки. Хорошее сочетание [XRayGUI](https://github.com/AKotov-dev/XRayGUI) + [Censor](https://github.com/AKotov-dev/censor) избавит Вас и Ваших близких от агрессии со стороны мусорных и опасных для психики ресурсов.
 
-С наступающим Новым Годом, друзья.  
+С Новым Годом, друзья.  
 --
   
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
