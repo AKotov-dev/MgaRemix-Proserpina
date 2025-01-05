@@ -40,6 +40,7 @@ Download
 Author's software:
 ---
 + [DNSCrypt-GUI](https://github.com/AKotov-dev/dnscrypt-gui)
++ [Censor - Scheduled Website Blocker](https://github.com/AKotov-dev/censor)
 + [WarpGUI - GUI for Cloudflare ™ WARP](https://github.com/AKotov-dev/warpgui) - replaced by AmneziaVPN
 + [Juggler (VPN Switch)](https://github.com/AKotov-dev/juggler)
 + [Lovpn (*.ovpn loader)](https://github.com/AKotov-dev/lovpn)
