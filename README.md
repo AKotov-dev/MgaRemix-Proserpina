@@ -1,14 +1,13 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina.png?raw=true)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png) В Новогоднем выпуске **Прозерпины** предоставлен доступ к [Искусственному Интеллекту (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) в двух вариантах: Официальный и Российский. ИИ может быть полезен для студентов и самообразования. Кроме этого установлена программа Родительского Контроля [Censor (Блокировщик сайтов)](https://github.com/AKotov-dev/censor).  
+В этом выпуске **Прозерпины** предоставлен доступ к [Искусственному Интеллекту (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) в двух вариантах: Официальный и Российский. ИИ может быть полезен для студентов и самообразования. Кроме этого установлена программа Родительского Контроля [Censor (Блокировщик сайтов)](https://github.com/AKotov-dev/censor).  
 
 Русская версия `Censor` получила предустановленный список блокировки, который включает всё, что может помешать учебному процессу и трезвости мышления. Блокируются наиболее популярные Российские СМИ (от "известий" до "московской правды"), каналы центрального телевидения, роскомнадзор и другие ведомства, рейтинговые агентства фом, вциом и подобные. Так же блокируются yandex, dzen, vk, ok, lenta и другие сомнительные ресурсы.  
 
 Блокировка включается по желанию заинтересованных в чистоте контента одним нажатием кнопки. Хорошее сочетание [XRayGUI](https://github.com/AKotov-dev/XRayGUI) + [Censor](https://github.com/AKotov-dev/censor) избавит Вас и Ваших близких от агрессии со стороны вредных и опасных для психики ресурсов.
 
-[С Новым Годом, друзья.](https://www.youtube.com/watch?v=b_nGaikpN6k) 
---
+---
   
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
 
