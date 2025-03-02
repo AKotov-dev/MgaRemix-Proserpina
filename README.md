@@ -37,6 +37,8 @@ What is it
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-36.png) **SS-Cloak** - Shadowsocks-Rust + Cloak obfuscator (GUI client & server).
 
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/xraygui-36.png) **XRayGui** - A small and nimble GUI for XRay-core.
+
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-36.png) **chatgpt-plugin** - This is an [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
 
 Download
