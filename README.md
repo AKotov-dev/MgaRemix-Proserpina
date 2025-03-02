@@ -29,7 +29,7 @@ What is it
 
 **Desktop:** [Budgie-10.9.2](https://github.com/AKotov-dev/budgie-desktop-rpm)  
 **Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen)  
-**Other:** LibreOffice, PhotoFlare, Google Chrome (+AdGuard, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
+**Other:** LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **MgaRemix-Proserpina** received a multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
 
