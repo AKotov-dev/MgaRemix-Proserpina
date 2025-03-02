@@ -1,7 +1,7 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina2.png?raw=true)
 
-Выпуск [020325] получил графический/полуавтоматический конфигуратор [SS-Cloak](https://github.com/AKotov-dev/SS-Cloak) - клиент/сервер с одним из лучших обфускаторов. Клиент и сервер можно будет настроить всего за 20-30 секунд.  
+**UPD [020325]**. Выпуск получил графический/полуавтоматический конфигуратор [SS-Cloak](https://github.com/AKotov-dev/SS-Cloak) - клиент/сервер с одним из лучших обфускаторов. Клиент и сервер можно будет настроить всего за 20-30 секунд.  
   
 В бущем рассматривается возможность использования технологии [Deeper Network Decentralized (DPN)](https://dpn-how-it-works.ru/). 
 
@@ -33,13 +33,13 @@ What is it
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **MgaRemix-Proserpina** received a multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-36.png) **Censor (Website Blocker)**. Parental Control [program](https://github.com/AKotov-dev/censor) for blocking unwanted content on a schedule.
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-36.png) **Censor (Website Blocker)** - Parental Control [program](https://github.com/AKotov-dev/censor) for blocking unwanted content on a schedule.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-obfuscator-client-36.png) **SS-Obfuscator**. Shadowsocks client (with GUI) and server (for VPS) with obfuscation.
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-obfuscator-client-36.png) **SS-Obfuscator** - Shadowsocks client (with GUI) and server (for VPS) with obfuscation.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-36.png) **SS-Cloak**. Shadowsocks-Rust + Cloak obfuscator (GUI client & server).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-36.png) **SS-Cloak** - Shadowsocks-Rust + Cloak obfuscator (GUI client & server).
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-36.png) **chatgpt-plugin**. This is an [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-36.png) **chatgpt-plugin** - This is an [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
 
 Download
 ---
