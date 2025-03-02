@@ -56,6 +56,7 @@ Author's software:
 + [SSHProxy (localhost:8080)](https://github.com/AKotov-dev/SSHProxy)
 + [SShuttle-GUI (working with VPS)](https://github.com/AKotov-dev/SShuttle-GUI)
 + [SS-Obfuscator-Client](https://github.com/AKotov-dev/SS-Obfuscator)
++ [SS-Cloak - Shadowsocks-Rust + Cloak obfuscator (GUI client & server)](https://github.com/AKotov-dev/SS-Cloak)
 + [SSTP-Connector](https://github.com/AKotov-dev/SSTP-Connector)
 + [IPsecCaManager (NM: L2TP/IPsec & IKEv2/IPsec)](https://github.com/AKotov-dev/IPsecCaManager)
 + [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI) (recommended)
