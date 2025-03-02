@@ -1,5 +1,5 @@
 # MgaRemix-Proserpina
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina.png?raw=true)
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina2.png?raw=true)
 
 **What's next...** Следующий выпуск получит графический/полуавтоматический конфигуратор [SS-Cloak](https://github.com/AKotov-dev/SS-Cloak) - клиент/сервер с одним из лучших обфускаторов. Клиент и сервер можно будет настроить всего за 20-30 секунд.  
   
