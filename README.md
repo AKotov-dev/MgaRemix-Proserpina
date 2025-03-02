@@ -37,7 +37,7 @@ What is it
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-obfuscator-client-48.png) **SS-Obfuscator**. Shadowsocks client (with GUI) and server (for VPS) with obfuscation.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-48.png). **SS-Cloak**. Shadowsocks-Rust + Cloak obfuscator (GUI client & server).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-48.png) **SS-Cloak**. Shadowsocks-Rust + Cloak obfuscator (GUI client & server).
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-48.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-48.png) **chatgpt-plugin**. This is an [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
 
