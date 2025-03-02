@@ -17,8 +17,6 @@
   
 **Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
 
-**Note_1_[RU]:** Все ссылки, представленные здесь, являются оригинальными. Ссылки на сборку `MgaRemix-Proserpina`, указанные в других источниках могут быть фейковыми или недействительными. Представленные Live сборки и программное обеспечение не поддерживаются разработчиками Mageia.
-
 [Logo and Trademark Policy](https://wiki.mageia.org/en/Logo_and_trademark_policy) & [Mageia License](https://www.mageia.org/en/about/license/)
 
 **Note_2:** The English version is not always updated (lack of time). The main efforts are concentrated on the Russian assembly. Assembly for other languages ​​is done by users themselves in `VirtualBox`.
