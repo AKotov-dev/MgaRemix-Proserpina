@@ -41,9 +41,9 @@ What is it
 
 Download
 ---
+**Last update_RU (.7z md5):** [MgaRemix-Proserpina-9-RU-020325.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 36bc0b2c027d498ce5beec9f8d7a2541
 **Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-010125.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 15ee73b87b68fb8b537c4f1903ae045c  
-**Last update_RU (.7z md5):** [MgaRemix-Proserpina-9-RU-020325.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 36bc0b2c027d498ce5beec9f8d7a2541  
-
+  
 Author's software:
 ---
 + [DNSCrypt-GUI](https://github.com/AKotov-dev/dnscrypt-gui)
