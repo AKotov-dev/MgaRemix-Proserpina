@@ -1,7 +1,7 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina2.png?raw=true)
 
-**UPD: [070425]** AmneziaVPN-v4.8.5.0, ADBManager-v3.4, kernel-6.6.83, etc...
+**UPD [070425]** AmneziaVPN-v4.8.5.0, ADBManager-v3.4, kernel-6.6.83, etc...
 
 **UPD [020325]** Выпуск получил графический/полуавтоматический конфигуратор [SS-Cloak](https://github.com/AKotov-dev/SS-Cloak) - клиент/сервер с одним из лучших обфускаторов. Клиент и сервер можно будет настроить всего за 20-30 секунд.  
   
