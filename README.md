@@ -1,6 +1,8 @@
 # MgaRemix-Proserpina
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina2.png?raw=true)
 
+**UPD: [070425]** AmneziaVPN-v4.8.5.0, ADBManager-v3.4, kernel-6.6.83, etc...
+
 **UPD [020325]** Выпуск получил графический/полуавтоматический конфигуратор [SS-Cloak](https://github.com/AKotov-dev/SS-Cloak) - клиент/сервер с одним из лучших обфускаторов. Клиент и сервер можно будет настроить всего за 20-30 секунд.  
   
 В бущем рассматривается возможность использования технологии [Deeper Network Decentralized (DPN)](https://dpn-how-it-works.ru/). 
@@ -43,7 +45,7 @@ What is it
 
 Download
 ---
-**Last update_RU (.7z md5):** [MgaRemix-Proserpina-9-RU-020325.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 36bc0b2c027d498ce5beec9f8d7a2541  
+**Last update_RU (.7z md5):** [MgaRemix-Proserpina-9-RU-070425.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 98732f96c890634ac190801be8b22eb8  
 **Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-010125.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 15ee73b87b68fb8b537c4f1903ae045c  
   
 Author's software:
