@@ -1,5 +1,5 @@
 # MgaRemix-Proserpina
-*Команда Proserpina выражает благодарность OpenAI за вклад в визуальную составляющую дистрибутива. Новый тёмный рабочий стол появится в следующем релизе...*
+[*Команда Proserpina выражает благодарность OpenAI за вклад в визуальную составляющую дистрибутива. Новый тёмный рабочий стол появится в следующем релизе...*](https://www.youtube.com/watch?v=g5VgVr2MeJU)
 [![Proserpina Banner](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/PROSERPINA.png)](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina_Desktop.png)
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina2.png?raw=true)
