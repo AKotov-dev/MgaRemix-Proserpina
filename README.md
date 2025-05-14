@@ -1,4 +1,7 @@
 # MgaRemix-Proserpina
+Команда Proserpina выражает благодарность OpenAI за вклад в визуальную составляющую дистрибутива. Новый тёмный рабочий стол появится в следующем релизе.
+[![Proserpina Banner](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/PROSERPINA.png)](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina_Desktop.png))
+
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina2.png?raw=true)
 
 **UPD [100525]** LibreOffice-24.2.7.2, Xray-25.4.30, kernel-6.6.88, Censor (blacklist update), etc...
