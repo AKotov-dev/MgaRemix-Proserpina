@@ -1,4 +1,10 @@
 # MgaRemix-Proserpina
+**Анонс:** Бесплатная акция **"Лето без тормозов"**
+
+В следующем релизе **Proserpina** — интернет без границ и без пропаганды.
+
+Забудьте о навязчивых новостях, блокировках и фильтрах. Просто возьмите с собой **Proserpina** — и отправляйтесь в отпуск, ловите рыбу, наслаждайтесь природой и свободой в сети. Всё это — без цензуры, бесплатно и легко.
+
 *Команда Proserpina выражает благодарность OpenAI за вклад в визуальную составляющую дистрибутива. Новый тёмный рабочий стол появится в следующем релизе...* 
   
 [![Proserpina Banner](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/PROSERPINA2_banner1.png)](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/PROSERPINA2_Desktop.png)
