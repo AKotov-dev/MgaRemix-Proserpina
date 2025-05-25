@@ -1,15 +1,15 @@
 # MgaRemix-Proserpina
-**Анонс:** Бесплатная акция **"Лето без тормозов"**
+Бесплатная акция **"Лето без тормозов"**
 
-В следующем релизе **Proserpina** — интернет без границ и без пропаганды.
+[Белое солнце пустыни](https://www.youtube.com/watch?v=GqnqFhc9aho&t=3104s)
 
-Забудьте о навязчивых новостях, блокировках и фильтрах. Просто возьмите с собой **Proserpina** — и отправляйтесь в отпуск, ловите рыбу, наслаждайтесь природой и свободой в сети. Всё это — без цензуры, бесплатно и легко.
+Чтож, друзья... Вот и состоялся летний релиз. После загрузки вы увидите на РС привычный WARP, который мы оставили на съеденье мородёрам. Тем не менее он исправно работает. А вторым словом оставляю Вам, уважаемая Екатерина Матвеевна, AmneziaVPN с тремя серверами в загашнике. С этим продуктом хлопцам из регулятора придёться поупираться. Работаем как обычно, запускаем Cloudflare WARP, ждём. Если не зелёный - жмём AmneziaVPN. Второй сервер недоступен - выбираем третий, первый и т.д. Вот такая история. Если и это не помогает, переходим на уже заблокированных провайдеров и используем Juggler (VPN Switch). И ещё, Абдула, ты это, руки то опусти. Всем хорошей рыбалки и любви. В Педженте ещё что нибудь раздобудешь. А я доберусь до Волги и напрямки, уважаемая Екатерина Матвеевна.
 
-*Команда Proserpina выражает благодарность OpenAI за вклад в визуальную составляющую дистрибутива. Новый тёмный рабочий стол появится в следующем релизе...* 
-  
-[![Proserpina Banner](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/PROSERPINA2_banner1.png)](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/PROSERPINA2_Desktop.png)
+Команда **Proserpina** благодарит **OpenAI** за оформление рабочего стола и менторов/трибунов команды **Mageia** за науку, которая оказалась неоценимой перед Linux-сообществом. [Код должен быть и будет свободен](https://www.youtube.com/watch?v=FKpZ5vptLMk).
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/mgaremix-proserpina2.png?raw=true)
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-2.png)
+
+**UPD [250525]** Xray-25.5.16 + бонус...
 
 **UPD [100525]** LibreOffice-24.2.7.2, Xray-25.4.30, kernel-6.6.88, Censor (blacklist update), etc...
 
@@ -40,7 +40,7 @@ What is it
 `MgaRemix-Proserpina` is a live installable flash drive based on Mageia Linux. It is assembled using [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) technology and is designed for comfortable operation in networks with aggressive censorship.
 
 **Desktop:** [Budgie-10.9.2](https://github.com/AKotov-dev/budgie-desktop-rpm)  
-**Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen)  
+**Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: OpenAI)  
 **Other:** LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **AmneziaVPN-Client** - Multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
@@ -57,7 +57,7 @@ What is it
 
 Download
 ---
-**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-100525.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 5857ed2fa8199a2dcb425daea8ef8c2f  
+**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-250525.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) cd9b58344017d39bbd7a08e582a51185  
 **Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-010125.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 15ee73b87b68fb8b537c4f1903ae045c  
   
 Author's software:
