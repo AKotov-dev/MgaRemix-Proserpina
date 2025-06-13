@@ -13,7 +13,9 @@
 
 Код должен быть и остаётся свободным.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-2.png)
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-3.png)  
+  
+**UPD [130625]** kernel-6.6.93, rootcerts-20250424.00, AmneziaVPN-4.8.7.2, chromium-136.0.7103.113, xray-25.6.8, etc...
 
 **UPD [250525]** Xray-25.5.16 + бонус...
 
@@ -63,7 +65,7 @@ What is it
 
 Download
 ---
-**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-250525.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) cd9b58344017d39bbd7a08e582a51185  
+**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-130625.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) c785e3ccbd8f7f1ec2f1336aaaed66d2  
 **Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-010125.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 15ee73b87b68fb8b537c4f1903ae045c  
   
 Author's software:
