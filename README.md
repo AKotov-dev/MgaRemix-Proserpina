@@ -40,7 +40,7 @@
 **-- А что если женщина любит женщину?**  
 Главное, чтобы они обе были счастливы. Нет счастья - нет Любви.
 
-[Любите друг-друга](https://www.youtube.com/watch?v=GYeid1InSBM&list=TLGG0VcjPRoXHocyMzA3MjAyNQ)
+[Любите друг-друга в разных проявлениях](https://www.youtube.com/watch?v=GYeid1InSBM&list=TLGG0VcjPRoXHocyMzA3MjAyNQ)
 
 **Лето без тормозов**
 
