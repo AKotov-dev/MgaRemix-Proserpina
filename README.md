@@ -1,6 +1,6 @@
 # MgaRemix-Proserpina
 
-Марья, сложно погворить?
+Марья, сложно поговорить?
 
 https://youtu.be/_KuXx_zPJC4
 
