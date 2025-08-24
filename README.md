@@ -14,7 +14,7 @@
 
 Код должен быть и остаётся свободным.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-3.png)  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)  
 
 **UPD [240825 RU/EN]** kernel-6.6.101-1, AmneziaVPN-4.8.9.2, xray-25.8.3, etc...
   
