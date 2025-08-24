@@ -1,10 +1,10 @@
 # MgaRemix-Proserpina
 
-**Лето без тормозов**
+**Осень без тормозов (обновление RU/EN)**
 
 Друзья, состоялся наш летний релиз. После установки вы увидите привычный **WARP** — проверенный временем и работой в самых разных условиях. Кроме того, в нашем арсенале **AmneziaVPN** с несколькими серверами — на всякий случай, чтобы обходить любые преграды.
 
-Запускаем Cloudflare WARP, если не выходит — переключаемся на AmneziaVPN. Если и там сложности — используйте запасные серверы. А при необходимости — дополнительные инструменты.
+Запускаем Cloudflare WARP, если не выходит — переключаемся на AmneziaVPN. Если и там сложности — используйте дополнительные инструменты.
 
 Мы понимаем, что технологии и обстоятельства меняются, но вместе мы найдём решение.
 
@@ -16,6 +16,7 @@
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-3.png)  
 
+**UPD [240825 RU/EN]** kernel-6.6.101-1, AmneziaVPN-4.8.9.2, xray-25.8.3, etc...
   
 **UPD [130625]** kernel-6.6.93, rootcerts-20250424, AmneziaVPN-4.8.7.2, chromium-136, xray-25.6.8, etc...
 
@@ -61,8 +62,8 @@ What is it
 
 Download
 ---
-**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-130625.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) c785e3ccbd8f7f1ec2f1336aaaed66d2  
-**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-010125.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 15ee73b87b68fb8b537c4f1903ae045c  
+**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-240825.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) d45f8ac23513651c969bcebe18e7240f  
+**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-240825.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 66347da0eb1a1a83718a484212be6b2a  
   
 Author's software:
 ---
