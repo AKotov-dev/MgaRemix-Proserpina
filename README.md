@@ -45,7 +45,7 @@ What is it
 `MgaRemix-Proserpina` is a live installable flash drive based on Mageia Linux. It is assembled using [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) technology and is designed for comfortable operation in networks with aggressive censorship.
 
 **Desktop:** [Budgie-10.9.2](https://github.com/AKotov-dev/budgie-desktop-rpm)  
-**Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: OpenAI)  
+**Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: [MskyCarmen](https://www.deviantart.com/mskycarmen))  
 **Other:** LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **AmneziaVPN-Client** - Multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
