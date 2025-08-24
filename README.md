@@ -48,9 +48,9 @@ What is it
 **Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: [MskyCarmen](https://www.deviantart.com/mskycarmen))  
 **Other:** LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **AmneziaVPN-Client** - Multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **AmneziaVPN** - Multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-36.png) **Censor (Website Blocker)** - Parental Control [program](https://github.com/AKotov-dev/censor) for blocking unwanted content on a schedule.
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-36.png) **Censor** - Parental Control [program](https://github.com/AKotov-dev/censor) for blocking unwanted content on a schedule.
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-obfuscator-client-36.png) **SS-Obfuscator** - Shadowsocks client (with GUI) and server (for VPS) with obfuscation.
 
