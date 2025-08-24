@@ -1,6 +1,6 @@
 # MgaRemix-Proserpina
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/maple32-1.png) **Осень без тормозов (обновление RU/EN)**
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/maple32-2.png) **Осень без тормозов (обновление RU/EN)**
 
 Друзья, состоялся наш летний релиз. После установки вы увидите привычный **WARP** — проверенный временем и работой в самых разных условиях. Кроме того, в нашем арсенале **AmneziaVPN** с несколькими серверами — на всякий случай, чтобы обходить любые преграды.
 
