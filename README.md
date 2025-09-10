@@ -16,7 +16,7 @@
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)  
 
-**UPD [240825 RU/EN]** kernel-6.6.101-1, AmneziaVPN-4.8.9.2, xray-25.8.3, etc...
+**UPD [240825 RU/EN]** kernel-6.6.101-1, AmneziaVPN-4.8.9.2, xray-25.8.3, warp-cli-2025.6.1335.0, etc...
   
 **UPD [130625]** kernel-6.6.93, rootcerts-20250424, AmneziaVPN-4.8.7.2, chromium-136, xray-25.6.8, etc...
 
@@ -28,7 +28,7 @@
 
 Предоставлен доступ к [Искусственному Интеллекту (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) в двух вариантах: Официальный и Российский. ИИ может быть полезен для студентов и самообразования. Кроме этого установлена программа Родительского Контроля [Censor (Блокировщик сайтов)](https://github.com/AKotov-dev/censor).  
 
-Русская версия `Censor` получила предустановленный список блокировки, который включает всё, что может помешать учебному процессу и трезвости мышления. Блокируются наиболее популярные российские СМИ (от "известий" до "московской правды"), каналы центрального телевидения, роскомнадзор и другие ведомства, рейтинговые агентства фом, вциом и подобные. Так же блокируются yandex, dzen, vk, ok, lenta и другие сомнительные ресурсы.  
+Русская версия `Censor` получила предустановленный список блокировки, который включает всё, что может помешать учебному процессу и трезвости мышления. Блокируются наиболее популярные российские СМИ (от "известий" до "московской правды"), каналы центрального телевидения, роскомнадзор и другие ведомства, рейтинговые агентства фом, вциом и подобные. Так же блокируются yandex, dzen, vk, ok, max, lenta и другие сомнительные ресурсы.  
 
 Блокировка включается по желанию заинтересованных в чистоте контента одним нажатием кнопки. Хорошее сочетание [XRayGUI](https://github.com/AKotov-dev/XRayGUI) + [Censor](https://github.com/AKotov-dev/censor) избавит Вас и Ваших близких от агрессии со стороны вредных и опасных для психики ресурсов.
 
@@ -85,7 +85,7 @@ Author's software:
 + [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI) (recommended)
 + [LUKSKey (Changing LUKS encrypted partitions keys)](https://github.com/AKotov-dev/LUKSKey)
 + [encrypt-decrypt (Symmetric encryption of files and folders AES-256)](https://github.com/AKotov-dev/encrypt-decrypt)
-+ [ADBManager + android-udev-rules; working with Android smartphones via ADB](https://github.com/AKotov-dev/adbmanager)
++ [ADBManager + android-udev-rules; working with Android devices via ADB](https://github.com/AKotov-dev/adbmanager)
 + ...etc
 
 I wish you a pleasant and safe work.
