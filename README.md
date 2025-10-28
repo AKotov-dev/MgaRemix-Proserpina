@@ -1,18 +1,8 @@
 # MgaRemix-Proserpina
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/maple32-2.png) **Осень без тормозов (обновление RU/EN)**
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/maple32-2.png) **Осень без тормозов**
 
-Друзья, состоялся наш осенний релиз. После загрузки вы увидите привычный **WARP** — проверенный временем и работой в самых разных условиях. Кроме того, в нашем арсенале **AmneziaVPN**, чтобы обходить любые преграды.
-
-Запускаем Cloudflare WARP, если не выходит — переключаемся на AmneziaVPN. Если и там сложности — используем дополнительные инструменты (каталог VPN на Рабочем столе).
-
-Мы понимаем, что технологии и обстоятельства меняются, но вместе мы найдём решение.
-
-Отдельное спасибо команде **Mageia** — менторы и трибуны подарили нам неоценимый опыт и поддержку, без которых этот релиз был бы невозможен.
-
-Команда **Proserpina** благодарит всех, кто делился знаниями — ваша поддержка бесценна.
-
-Код должен быть и остаётся свободным.
+**UPD [281025 RU/EN]** kernel-6.6.105-1, ADBManager-3.9(+Qt6), DNSCrypt-GUI-1.2(dnscrypt-proxy-2.1.14), warpcli-2025.8.779.0, AmneziaVPN-4.8.10.0,  Xray-25.10.15, openssl-3.0.18, rootcerts-20251003, etc...
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)  
 
@@ -62,8 +52,8 @@ What is it
 
 Download
 ---
-**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-240825.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) d45f8ac23513651c969bcebe18e7240f  
-**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-240825.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) 66347da0eb1a1a83718a484212be6b2a  
+**Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-281025.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) a6755c660480a2b312b29112a19c596f  
+**Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-281025.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) ae0780795c5543c80a1399c182c3eafb  
   
 Author's software:
 ---
