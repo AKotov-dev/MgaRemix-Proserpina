@@ -6,10 +6,6 @@
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)  
 
-**UPD [240825 RU/EN]** kernel-6.6.101-1, AmneziaVPN-4.8.9.2, xray-25.8.3, warp-cli-2025.6.1335.0, etc...
-  
-**UPD [130625]** kernel-6.6.93, rootcerts-20250424, AmneziaVPN-4.8.7.2, chromium-136, xray-25.6.8, etc...
-
 **UPD [020325]** Выпуск получил графический/полуавтоматический конфигуратор [SS-Cloak](https://github.com/AKotov-dev/SS-Cloak) - клиент/сервер с одним из лучших обфускаторов. Клиент и сервер можно настроить всего за 20-30 секунд.  
   
 В бущем рассматривается возможность использования технологии Deeper Network Decentralized (DPN). 
