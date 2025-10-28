@@ -2,7 +2,7 @@
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/maple32-2.png) **Осень без тормозов**
 
-**UPD [281025 RU/EN]** kernel-6.6.105-1, ADBManager-3.9(+Qt6), DNSCrypt-GUI-1.2 (dnscrypt-proxy-2.1.14), warpcli-2025.8.779.0, AmneziaVPN-4.8.10.0, Xray-25.10.15, openssl-3.0.18, rootcerts-20251003, etc...
+**UPD [281025 RU/EN]** kernel-6.6.105-1, ADBManager-3.9 (+Qt6), DNSCrypt-GUI-1.2 (dnscrypt-proxy-2.1.14), warpcli-2025.8.779.0, AmneziaVPN-4.8.10.0, Xray-25.10.15, openssl-3.0.18, rootcerts-20251003, etc...
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)  
 
