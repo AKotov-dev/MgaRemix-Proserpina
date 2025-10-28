@@ -6,6 +6,8 @@ MgaRemix-Proserpina is a live installable flash drive based on Mageia Linux. It 
 **Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: [MskyCarmen](https://www.deviantart.com/mskycarmen))  
 **Other:** LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
 
+## Includes
+
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **AmneziaVPN** - Multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia). In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can now create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).  
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-36.png) **Censor** - Parental Control [program](https://github.com/AKotov-dev/censor) for blocking unwanted content on a schedule.
@@ -45,7 +47,7 @@ Download
 **Last update_RU (.7z md5):** [MgaRemix-9-Proserpina-RU-281025.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) a6755c660480a2b312b29112a19c596f  
 **Last update_EN (.7z md5):** [MgaRemix-9-Proserpina-EN-281025.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link) ae0780795c5543c80a1399c182c3eafb  
   
-Author's software:
+Other software
 ---
 + [DNSCrypt-GUI](https://github.com/AKotov-dev/dnscrypt-gui)
 + [Censor - Scheduled Website Blocker](https://github.com/AKotov-dev/censor)
