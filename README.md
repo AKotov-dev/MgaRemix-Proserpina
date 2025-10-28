@@ -9,15 +9,11 @@ It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) f
 
 ---
 
-**Note 1:** All links provided here are official and authentic.  
-Links to the `MgaRemix-Proserpina` build found on other websites may be fake or invalid.  
-The live images and software provided here are **not officially supported** by the Mageia developers.  
+**Note 1:** All links provided here are official and authentic. Links to the `MgaRemix-Proserpina` build found on other websites may be fake or invalid. The live images and software provided here are **not officially supported** by the Mageia developers.  
 
 [Logo and Trademark Policy](https://wiki.mageia.org/en/Logo_and_trademark_policy) • [Mageia License](https://www.mageia.org/en/about/license/)
 
-**Note 2:** The English version is not always up to date (due to lack of time).  
-The main development effort is focused on the Russian build.  
-Builds for other languages are created by users themselves in `VirtualBox`.
+**Note 2:** The English version is not always up to date (due to lack of time). The main development effort is focused on the Russian build. Builds for other languages are created by users themselves in `VirtualBox`.
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)
 
@@ -25,26 +21,18 @@ Builds for other languages are created by users themselves in `VirtualBox`.
 
 ## Includes
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png)  
-**AmneziaVPN** — Multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia).  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **AmneziaVPN** — Multi-protocol VPN client [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia).  
 In addition to support for multiple protocols (including `WARP/AmneziaWG`), you can create a high-privacy VPN on [your own server](https://amnezia.org/en/starter-guide).
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-36.png)  
-**Censor** — Parental control [application](https://github.com/AKotov-dev/censor) for scheduled content blocking.
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-36.png) **Censor** — Parental control [application](https://github.com/AKotov-dev/censor) for scheduled content blocking.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-obfuscator-client-36.png)  
-**SS-Obfuscator** — Shadowsocks client (with GUI) and server (for VPS) with built-in obfuscation.
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-obfuscator-client-36.png) **SS-Obfuscator** — Shadowsocks client (with GUI) and server (for VPS) with built-in obfuscation.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-36.png)  
-**SS-Cloak** — Shadowsocks-Rust + Cloak obfuscator (GUI client and server).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-36.png) **SS-Cloak** — Shadowsocks-Rust + Cloak obfuscator (GUI client and server).
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/xraygui-36.png)  
-**XRayGUI** — A lightweight graphical interface for XRay-core.
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/xraygui-36.png) **XRayGUI** — A lightweight graphical interface for XRay-core.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png)
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-36.png)  
-**ChatGPT Plugin** — An [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina, Mageia, and Ubuntu.  
-It provides two customizable launch buttons for quick access to:  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-36.png) **ChatGPT Plugin** — An [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina, Mageia, and Ubuntu. It provides two customizable launch buttons for quick access to:  
 [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
 
 ---
