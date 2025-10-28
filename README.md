@@ -1,10 +1,18 @@
 # MgaRemix-Proserpina
 
-MgaRemix-Proserpina is a live installable flash drive based on Mageia Linux. It is assembled using [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) technology and is designed for comfortable operation in networks with aggressive censorship.
+MgaRemix-Proserpina is a live, installable flash drive distribution based on Mageia Linux. It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) technology and is designed for comfortable and secure operation in networks with aggressive censorship.
 
 **Desktop:** [Budgie-10.9.2](https://github.com/AKotov-dev/budgie-desktop-rpm)  
 **Wallpaper:** [free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: [MskyCarmen](https://www.deviantart.com/mskycarmen))  
 **Other:** LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), etc...  
+
+**Note 1:** All links provided here are official and authentic. Links to the MgaRemix-Proserpina build found on other sources may be fake or invalid. The live images and software provided here are **not officially supported** by the Mageia developers.
+
+[Logo and Trademark Policy](https://wiki.mageia.org/en/Logo_and_trademark_policy) & [Mageia License](https://www.mageia.org/en/about/license/)
+
+**Note 2:** The English version is not always up to date (due to lack of time). The main development effort is focused on the Russian build. Builds for other languages are created by users themselves in VirtualBox.
+
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)  
 
 ## Includes
 
@@ -20,7 +28,7 @@ MgaRemix-Proserpina is a live installable flash drive based on Mageia Linux. It 
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-36.png) **chatgpt-plugin** - This is an [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina/Mageia/Ubuntu. It consists of two stylized buttons for placing them in the system panel or on the OS desktop and contains two options for logging in via a browser: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)  
+## Updates
 
 **UPD [281025 RU/EN]** kernel-6.6.105-1, ADBManager-3.9 (+Qt6), DNSCrypt-GUI-1.2 (dnscrypt-proxy-2.1.14), warpcli-2025.8.779.0, AmneziaVPN-4.8.10.0, Xray-25.10.15, openssl-3.0.18, rootcerts-20251003, etc...
 
@@ -33,14 +41,6 @@ MgaRemix-Proserpina is a live installable flash drive based on Mageia Linux. It 
 Русская версия `Censor` получила предустановленный список блокировки, который включает всё, что может помешать учебному процессу и трезвости мышления. Блокируются наиболее популярные российские СМИ (от "известий" до "московской правды"), каналы центрального телевидения, роскомнадзор и другие ведомства, рейтинговые агентства фом, вциом и подобные. Так же блокируются yandex, dzen, vk, ok, max, lenta и другие сомнительные ресурсы.  
 
 Блокировка включается по желанию заинтересованных в чистоте контента одним нажатием кнопки. Хорошее сочетание [XRayGUI](https://github.com/AKotov-dev/XRayGUI) + [Censor](https://github.com/AKotov-dev/censor) избавит Вас и Ваших близких от агрессии со стороны вредных и опасных для психики ресурсов.
-
----
-  
-**Note_1:** All links provided here are original. Links to the `MgaRemix-Proserpina` assembly that are listed in other sources may be fake or invalid. The Live builds and software provided are not supported by Mageia developers. 
-
-[Logo and Trademark Policy](https://wiki.mageia.org/en/Logo_and_trademark_policy) & [Mageia License](https://www.mageia.org/en/about/license/)
-
-**Note_2:** The English version is not always updated (lack of time). The main efforts are concentrated on the Russian assembly. Assembly for other languages ​​is done by users themselves in `VirtualBox`.
 
 Download
 ---
