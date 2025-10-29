@@ -4,7 +4,7 @@
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
 
 **Desktop:** [Budgie 10.9.2](https://github.com/AKotov-dev/budgie-desktop-rpm)  
-**Wallpaper:** [Free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: [MskyCarmen](https://www.deviantart.com/mskycarmen))  
+**Wallpaper:** [Free](https://getwallpapers.com/collection/goth-girl-wallpaper) (Author: MskyCarmen)  
 **Included software:** LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), and more.  
 
 ---
