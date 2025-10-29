@@ -31,7 +31,7 @@ It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) f
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/xraygui-36.png) **XRayGUI** — A lightweight graphical interface for XRay-core.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-russia-36.png) **ChatGPT Plugin** — An [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina, Mageia, and Ubuntu. It provides two customizable launch buttons for quick access to: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) **ChatGPT Plugin** — An [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina, Mageia, and Ubuntu. It provides two customizable launch buttons for quick access to: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
 
 ---
 
