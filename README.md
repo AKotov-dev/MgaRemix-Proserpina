@@ -1,8 +1,6 @@
 # MgaRemix-Proserpina
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png)
-
-*Грядёт год, когда технологии станут честнее людей.  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png) *Грядёт год, когда технологии станут честнее людей.  
 Год, в котором тихие протоколы — скромные, надёжные, незаметные — удержат мир прочнее, чем самые громкие распоряжения.*  
     
 *Год, когда тишина SSTP заговорит громче любого шума, который пытается его заглушить.*  
