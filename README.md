@@ -1,5 +1,13 @@
 # MgaRemix-Proserpina
 
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png)
+
+*Грядёт год, когда технологии станут честнее людей.  
+Год, в котором тихие протоколы — скромные, надёжные, незаметные — удержат мир прочнее, чем самые громкие распоряжения.  
+Год, когда тишина SSTP заговорит громче любого шума, который пытается его заглушить.  
+Когда стабильность, считавшаяся скучной роскошью, внезапно станет чудом, доступным каждому.
+И в этом новом году свобода соединений станет подарком для всех, кто устал от бесполезных ограничений.*
+  
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
 
