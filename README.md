@@ -8,7 +8,7 @@
   
 *И в этом новом году свобода соединений станет подарком для всех, кто устал от бесполезных ограничений.*  
 
-[https://www.youtube.com/watch?v=TBVr5qJSw4U](https://www.youtube.com/watch?v=YZTM_N3Wj2o) (потанцуем, суки)
+https://www.youtube.com/watch?v=TBVr5qJSw4U
   
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
