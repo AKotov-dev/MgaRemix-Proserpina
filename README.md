@@ -1,12 +1,10 @@
 # MgaRemix-Proserpina
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png) *Грядёт год, когда технологии станут честнее людей.  
-Год, в котором тихие протоколы — скромные, надёжные, незаметные — удержат мир прочнее, чем самые громкие распоряжения.*  
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png) *Санта летает не по прямой…*  
+  
+**UPD [281025 RU/EN]**  
+`kernel-6.6.116`, `ADBManager-4.0 (GTK2/Qt6)`, `AmneziaVPN-4.8.11.4`, `SSTP-Connector-0.5 (sstp-client-1.0.20)`,  `DNSCrypt-GUI-1.2.1 (dnscrypt-proxy-2.1.15)`, `warpgui-2.5 (warp-cli-2025.9.558.0)`, `xray-core-25.12.8`  
     
-*Год, когда тишина SSTP (другой порт) заговорит громче любого шума, который пытается его заглушить.* *Когда стабильность, считавшаяся скучной роскошью, внезапно станет чудом, доступным каждому.*  
-  
-*И в этом новом году свобода соединений станет подарком для всех, кто устал от бесполезных ограничений.*  
-  
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
 
@@ -22,7 +20,7 @@ It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) f
 
 **Note 2:** The English version is not always up to date (due to lack of time). The main development effort is focused on the Russian build. Builds for other languages are created by users themselves in `VirtualBox`.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-4.png)
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-5.png)
 
 ---
 
@@ -64,11 +62,11 @@ Blocking can be enabled at the user’s discretion with a single click. A combin
 
 ## Download
 
-**Latest RU (.7z + md5):** [MgaRemix-9-Proserpina-RU-281025.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)  
-`a6755c660480a2b312b29112a19c596f`  
+**Latest RU (.7z + md5):** [MgaRemix-9-Proserpina-RU-291225.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)  
+`f8bac1eccb304bbcaf755a0ec645ed2d`  
 
-**Latest EN (.7z + md5):** [MgaRemix-9-Proserpina-EN-281025.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)  
-`ae0780795c5543c80a1399c182c3eafb`
+**Latest EN (.7z + md5):** [MgaRemix-9-Proserpina-EN-291225.7z](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)  
+`c227831fab8b91edc80f2ad3dd7d231c`
 
 ---
 
