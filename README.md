@@ -2,7 +2,7 @@
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png) *Санта летает не по прямой…*  
   
-**UPD [281025 RU/EN]**  
+**UPD [291225 RU/EN]**  
 `kernel-6.6.116`, `ADBManager-4.0 (GTK2/Qt6)`, `AmneziaVPN-4.8.11.4`, `SSTP-Connector-0.5 (sstp-client-1.0.20)`,  `DNSCrypt-GUI-1.2.1 (dnscrypt-proxy-2.1.15)`, `warpgui-2.5 (warp-cli-2025.9.558.0)`, `xray-core-25.12.8`  
     
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
