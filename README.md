@@ -2,8 +2,7 @@
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png) *Санта летает не по прямой…*  
   
-**UPD [291225 RU/EN]**  
-`kernel-6.6.116`, `ADBManager-4.0 (GTK2/Qt6)`, `AmneziaVPN-4.8.11.4`, `SSTP-Connector-0.5 (sstp-client-1.0.20)`,  `DNSCrypt-GUI-1.2.1 (dnscrypt-proxy-2.1.15)`, `warpgui-2.5 (warp-cli-2025.9.558.0)`, `xray-core-25.12.8`  
+**Тест:** [MgaRemix-10-Proserpina-RU-MATE-beta1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing) для тестов. Mageia-10 ещё не вышла, но потестить уже можно.
     
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
@@ -41,6 +40,9 @@ It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) f
 ---
 
 ## Updates
+
+**UPD [291225 RU/EN]**  
+`kernel-6.6.116`, `ADBManager-4.0 (GTK2/Qt6)`, `AmneziaVPN-4.8.11.4`, `SSTP-Connector-0.5 (sstp-client-1.0.20)`,  `DNSCrypt-GUI-1.2.1 (dnscrypt-proxy-2.1.15)`, `warpgui-2.5 (warp-cli-2025.9.558.0)`, `xray-core-25.12.8`  
 
 **UPD [281025 RU/EN]**  
 `kernel-6.6.105-1`, `ADBManager-3.9 (+Qt6)`, `DNSCrypt-GUI-1.2 (dnscrypt-proxy-2.1.14)`,  
