@@ -2,7 +2,7 @@
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/santa-48.png) *Санта летает не по прямой…*  
   
-**Тест:** [MgaRemix-10-Proserpina-RU-MATE-beta1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing) для тестов. Mageia-10 ещё не вышла, но потестить уже можно.
+**Бонус:** [MgaRemix-10-Proserpina-RU-MATE-beta1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing) для тестов. Mageia-10 ещё не вышла, но потестить уже можно.
     
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
