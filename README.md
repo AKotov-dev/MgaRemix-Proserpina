@@ -4,7 +4,7 @@
 + Kernel: 6.18.9
 + Desktop: Budgie-10.9.4
 + Browser: Brave-1.87.188
-+ Updates: Amnezia-client-4.8.12.9, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.1, SSTP-Client-1.0.20, etc. 
++ Amnezia-4.8.12.9, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.1, SSTP-Client-1.0.20, etc. 
     
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
