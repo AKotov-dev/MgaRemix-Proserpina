@@ -2,7 +2,7 @@
 
 **Тестирование:** [MgaRemix-10-Proserpina-RU-alpha1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
-**Личное впечатление о Mageia-10_alpha1:** [Плохой Санта](https://www.youtube.com/watch?v=TBVr5qJSw4U)... Надеюсь к `beta` поправят Nemo. Но виноват конечно же апстрим... )) MATE - забрать свежий релиз не позволяет религия, поскольку разраьотчик упёртый чувак... Поэтому ещё года два будет пакет с глюками... [nemo-engrampa](https://github.com/AKotov-dev/budgie-desktop-rpm/blob/main/nemo-engrampa-rpm-m10.tar.gz) - GTK4 на поводу у принципиальных парней из конторы, которая уже давно в глубокой яме со своими принципами.  
+**Личное впечатление о Mageia-10_alpha1:** [Плохой Санта](https://www.youtube.com/watch?v=TBVr5qJSw4U)... Надеюсь к `beta` поправят Nemo. Но виноват конечно же апстрим... )) MATE - забрать свежий релиз не позволяет религия, поскольку разраьботчик упёртый чувак `mate-screenshot`... Поэтому ещё года два будет и пакет с глюками... [nemo-engrampa](https://github.com/AKotov-dev/budgie-desktop-rpm/blob/main/nemo-engrampa-rpm-m10.tar.gz) - GTK4 на поводу у принципиальных парней из конторы, которая уже давно в глубокой яме со своими принципами.  
 
 + Kernel: 6.18.9
 + Desktop: Budgie-10.9.4
