@@ -9,7 +9,7 @@
 
 [Вагнер](https://www.youtube.com/watch?v=VE03Lqm3nbI) Классика... 
 
-Полёт валькирии.. Нехер мне такие вопросы задавать по телефону... Гооподи, весь ваш штат состоит из необразованных подонков. 
+Полёт Валькирии.. Нехер мне такие вопросы задавать по телефону... Гооподи, весь ваш штат состоит из необразованных подонков и имбицилов. 
     
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
