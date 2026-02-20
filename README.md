@@ -2,10 +2,6 @@
 
 **Тестирование:** [MgaRemix-10-Proserpina-RU-alpha1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
-https://www.youtube.com/watch?v=be0JV7wWdTA ... Погода сегодня некудышняя... Суки...
-
-[почти моя дочь, умница](https://www.youtube.com/watch?v=vInmfKtwfUQ)
-
 + Kernel: 6.18.9
 + Desktop: Budgie-10.9.4
 + Browser: Brave-1.87.188
