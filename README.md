@@ -2,7 +2,7 @@
 
 **Тестирование:** [MgaRemix-10-Proserpina-RU-alpha1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
-Сеть в России напоминает пристанище компенсаторов. Девки им нормальные не дают. А полномочий до жопы..)) Сидит прыщавый, дрочит, и выходит из себя...  ))
+https://www.youtube.com/watch?v=7qaskEbR_CE&list=RD7qaskEbR_CE&start_radio=1
 
 + Kernel: 6.18.9
 + Desktop: Budgie-10.9.4
