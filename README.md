@@ -2,7 +2,8 @@
 
 **Тестирование:** [MgaRemix-10-Proserpina-RU-alpha1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
-https://www.youtube.com/watch?v=7qaskEbR_CE&list=RD7qaskEbR_CE&start_radio=1
+что у них осталось... смотрим по чеснаку... SSTP - бежбанковские связи... Windows... Межотраслевые - Ikev2 /// ipsec/// почти прибрались... Нужно ещё поднажать. Они обязаны лишить связи самих себя... Отрубить Google... Ждёмс... ))
+
 
 + Kernel: 6.18.9
 + Desktop: Budgie-10.9.4
