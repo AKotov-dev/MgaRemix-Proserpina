@@ -2,8 +2,6 @@
 
 **Тестирование:** [MgaRemix-10-Proserpina-RU-alpha1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
-Что-то нужно делать с UDP. Это безобразие... Интернет нужно заблокировать... Мы же любим пить кофе по утрам? Ну вот и славно... Свиньи..
-
 + Kernel: 6.18.9
 + Desktop: Budgie-10.9.4
 + Browser: Brave-1.87.188
