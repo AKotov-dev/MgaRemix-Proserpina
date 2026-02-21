@@ -8,6 +8,8 @@
 + Amnezia-4.8.12.9, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.1, SSTP-Client-1.0.20, etc.
 
 [Задание - пугать акул](https://www.youtube.com/shorts/qYWnwJIwr6k)
+
+Каждый участник проекта свободен в выборе своих решений. Мы ценим инициативу и уважение к мнению коллег, поскольку именно это помогает нам двигаться вместе, сохраняя гармонию и ответственность. В конечном итоге, проект — это спектакль, в котором каждый актёр играет важную роль, и свобода действий делает его живым и подлинным.
     
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 It is built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework and is designed for comfortable and secure operation in networks with aggressive censorship.
