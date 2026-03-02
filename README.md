@@ -7,6 +7,8 @@
 + Browser: Brave-1.87.188
 + Amnezia-4.8.12.9, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.1, SSTP-Client-1.0.20, etc.
 
+---
+
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework, it is designed to provide comfortable and secure operation in networks with restricted or limited access, maintaining connectivity and privacy.
 
@@ -23,8 +25,6 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 **Note 2:** The English version is not always up to date (due to lack of time). The main development effort is focused on the Russian build. Builds for other languages are created by users themselves in `VirtualBox`.
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-5.png)
-
----
 
 ## Includes
 
