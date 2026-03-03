@@ -59,7 +59,7 @@ a client/server solution with one of the best obfuscators available — setup ta
 
 Future updates may include support for the **Deeper Network Decentralized DPN** technology.  
 
-Access to [Artificial Intelligence (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin) is provided in two variants: **Official** and **Russian**. The AI may be useful for students and self-education.
+Access to [Artificial Intelligence (ChatGPT)](https://github.com/AKotov-dev/chatgpt-plugin). The AI may be useful for students and self-education.
 
 Also included is the parental control application [Censor (Site Blocker)](https://github.com/AKotov-dev/censor). The Russian version of `Censor` comes with a preconfigured blocklist that filters out content considered harmful or distracting. It blocks popular Russian media outlets, TV channels, regulatory agencies, rating institutions, and platforms such as `yandex`, `dzen`, `vk`, `ok`, `max`, and `lenta`.
 
