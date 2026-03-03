@@ -36,9 +36,11 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-36.png) **SS-Cloak** — Shadowsocks-Rust + Cloak obfuscator (GUI client and server).
 
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/hybridge-36.png) **HyBridge** - Simple Hysteria2 client and server configurator.
+
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/xraygui-36.png) **XRayGUI** — A lightweight graphical interface for XRay-core.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) **ChatGPT Plugin** — An [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina, Mageia, and Ubuntu. It provides two customizable launch buttons for quick access to: [ChatGPT (Official)](https://chatgpt.com/) and [ChatGPT (Russia)](https://gpt-open.ru/).
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/chatgpt-plugin-36.png) **ChatGPT Plugin** — An [add-on](https://github.com/AKotov-dev/chatgpt-plugin) for MgaRemix-Proserpina, Mageia, and Ubuntu. It provides two customizable launch buttons for quick access to: [ChatGPT (Official)](https://chatgpt.com/).
 
 ---
 
@@ -90,9 +92,10 @@ Blocking can be enabled at the user’s discretion with a single click. A combin
 + [SShuttle-GUI (VPS integration)](https://github.com/AKotov-dev/SShuttle-GUI)  
 + [SS-Obfuscator Client](https://github.com/AKotov-dev/SS-Obfuscator)  
 + [SS-Cloak — Shadowsocks-Rust + Cloak obfuscator (GUI client & server)](https://github.com/AKotov-dev/SS-Cloak)  
++ [HyBridge - Simple Hysteria2 client and server configurator](https://github.com/AKotov-dev/HyBridge)
 + [SSTP-Connector](https://github.com/AKotov-dev/SSTP-Connector)  
 + [IPsecCaManager (NM: L2TP/IPsec & IKEv2/IPsec)](https://github.com/AKotov-dev/IPsecCaManager)  
-+ [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI) (recommended)  
++ [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI)  
 + [LUKSKey (Change LUKS encrypted partition keys)](https://github.com/AKotov-dev/LUKSKey)  
 + [encrypt-decrypt (Symmetric AES-256 file/folder encryption)](https://github.com/AKotov-dev/encrypt-decrypt)  
 + [ADBManager + android-udev-rules (Android device management via ADB)](https://github.com/AKotov-dev/adbmanager)  
