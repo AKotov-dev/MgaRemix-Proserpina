@@ -1,12 +1,13 @@
 # MgaRemix-Proserpina
 
-**Тестирование:** [MgaRemix-10-Proserpina-RU-beta1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
+**Тестирование (UPD: 200426):** [MgaRemix-10-Proserpina-RU-beta1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
-+ Kernel: **6.18.22**
-+ Desktop: Budgie-10.9.4 (**upd: 100426**)
-+ Browser: **Brave-1.89.132**
++ Kernel: 6.18.22
++ Desktop: Budgie-10.9.4 (upd: 100426)
++ Browser: **Brave-1.89.137**
 + Amnezia-4.8.14.5, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.4, NaiveGUI-0.4, etc.
-
++ **Fixed system-wide proxy mode**
++ **The system theme has been fixed: migrated to shared-mime-info 2.4**
 ---
 
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
