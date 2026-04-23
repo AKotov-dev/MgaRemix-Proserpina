@@ -8,6 +8,9 @@
 + Amnezia-4.8.14.5, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.4, NaiveGUI-0.4, etc.
 + **Fixed system-wide proxy mode**
 + **The system theme has been fixed: migrated to shared-mime-info 2.4**
++ ...переход c зеркал Cauldron на Mageia-10
++ ...изучение возможностей клиента [DPN](https://dpn.deeper.network/) для интеграции в сборку
++ ...тестирование приватного доступа через сеть пиринговых узлов, минуя центральные серверы
 ---
 
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
