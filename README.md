@@ -13,7 +13,8 @@
 Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework, it is designed to provide comfortable and secure operation in networks with restricted or limited access, maintaining connectivity and privacy.
 
 **Desktop:** [Budgie 10.9.2](https://github.com/AKotov-dev/budgie-desktop-rpm)  
-**Included software:** LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), and more.  
+**Included software:**
+LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configurator), and more.  
 
 ---
 
