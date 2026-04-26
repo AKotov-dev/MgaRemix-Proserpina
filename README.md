@@ -36,11 +36,11 @@ LibreOffice, PhotoFlare, Chromium (+UBlock, +WebRTC Leak Shield, +Socks5 Configu
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-36.png) **SS-Cloak** — Shadowsocks-Rust + Cloak obfuscator (GUI client and server)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/dpn-36.png)  **DPN** - Deeper Network [DPN Client](https://github.com/AKotov-dev/DPN-client)
-
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/hybridge-36.png) **HyBridge** - Simple Hysteria2 client and server configurator
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/naivegui-36.png) **NaiveGUI** - Client/Server configuration GUI for NaiveProxy and Caddy
+
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/dpn-36.png)  **DPN** - Deeper Network [DPN Client](https://github.com/AKotov-dev/DPN-client)
 
 ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/xraygui-36.png) **XRayGUI** — A lightweight graphical interface for XRay-core
 
