@@ -12,6 +12,8 @@
 + ...изучение возможностей клиента [DPN](https://dpn.deeper.network/) для интеграции в сборку
 + ...тестирование приватного доступа через сеть пиринговых узлов, минуя центральные серверы
 + ...первые результаты тестирования [DPN-client](https://github.com/AKotov-dev/DPN-client)
++ ...включение клиента **DPN** в следующую сборку; тестирование в составе дериватива (beta)
+
 ---
 
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
