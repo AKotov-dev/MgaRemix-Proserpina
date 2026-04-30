@@ -8,6 +8,8 @@
 + Amnezia-4.8.14.5, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.4, NaiveGUI-0.4
 + **DPN-2.0.0.260331** (Decentralized private network client), etc.
 
+...изучение технологий Mysterium, Sentinel, Nym; тестирование
+
 ---
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework, it is designed to provide comfortable and secure operation in networks with restricted or limited access, maintaining connectivity and privacy.
