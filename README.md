@@ -8,7 +8,7 @@
 + Amnezia-4.8.15.4, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.4, NaiveGUI-0.4
 + DPN-2.0.0.260331 (Decentralized private network client)
 + ...
-+ **PhotoFlare-v1.7.0** (Qt6, gmic-qt filter suite, full Russian translation)
++ **Photoflare-v1.7.0** (Qt6, gmic-qt filter suite, full Russian translation)
 + **android-udev-rules-20260423**, etc.
   
 ...изучение технологий Mysterium, Sentinel, **Nym**; тестирование
