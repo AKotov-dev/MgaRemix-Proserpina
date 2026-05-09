@@ -1,6 +1,6 @@
 # MgaRemix-Proserpina
 
-**Тестирование (UPD: 010526):** [MgaRemix-10-Proserpina-RU-beta1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
+**Тестирование (UPD: 090526):** [MgaRemix-10-Proserpina-RU-beta1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
 + Kernel: **6.18.27**
 + Desktop: Budgie-10.9.4 (upd: 100426)
