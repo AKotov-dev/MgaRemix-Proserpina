@@ -1,10 +1,10 @@
 # MgaRemix-Proserpina
 
-**Тестирование (UPD: 090526):** [MgaRemix-10-Proserpina-RU-beta1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
+**Тестирование (UPD: 180526):** [MgaRemix-10-Proserpina-RU-rc1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
-+ Kernel: **6.18.27**
++ Kernel: **6.18.30**
 + Desktop: Budgie-10.9.4 (upd: 100426)
-+ Browser: **Brave-1.90.121**
++ Browser: **Brave-1.90.122**
 + Amnezia-4.8.15.4, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.4, NaiveGUI-0.4
 + DPN-2.0.0.260331 (Decentralized private network client)
 + ...
@@ -12,6 +12,11 @@
 + **android-udev-rules-20260423**, etc.
   
 ...изучение технологий Mysterium, Sentinel, **Nym**; тестирование
+
+**Cтратегия, перспектива**
+- Поддержка децентрализованных криптографических платёжных решений
+- Переход на поисковые сервисы, ориентированные на защиту приватности пользователей
+- Усиление приватности системы: анонимизация, шифрование хранилищ данных с использованием LUKS
 
 ---
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
