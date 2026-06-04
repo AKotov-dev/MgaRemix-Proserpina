@@ -2,14 +2,13 @@
 
 **Тестирование (UPD: 180526):** [MgaRemix-10-Proserpina-RU-rc1](https://drive.google.com/drive/folders/1901H-jjOEzE0eDn69g25RY_h1febzhF2?usp=sharing)
 
-+ Kernel: **6.18.30**
++ Kernel: **6.18.33**
 + Desktop: Budgie-10.9.4 (upd: 100426)
-+ Browser: **Brave-1.90.122**
-+ Amnezia-4.8.15.4, DNSCrypt-GUI-1.3, SS-Cloak-0.4.1, XRayGUI-2.7.1, HyBridge-0.4, NaiveGUI-0.4
-+ DPN-2.0.0.260331 (Decentralized private network client)
++ Browser: **Brave-1.90.128**
++ Amnezia-4.8.15.4, **DNSCrypt-GUI-1.4**, SS-Cloak-0.4.1, XRayGUI-2.7.1, **HyBridge-0.4.1**, **NaiveGUI-0.5**
 + ...
-+ **Photoflare-v1.7.0** (Qt6, gmic-qt filter suite, full Russian translation)
-+ **android-udev-rules-20260423**, etc.
++ **USBRestore-1.1**, **fat32-repair-notifier-0.4**, **censor-1.0 (blacklist update)**
++ **Photoflare-v1.7.1** (Qt6, gmic-qt filter suite, full Russian translation)
   
 ...изучение технологий Mysterium, Sentinel, **Nym**; тестирование
 
