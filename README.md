@@ -1,14 +1,14 @@
 # MgaRemix-Proserpina
 
-**Release-10 (UPD: 300626):** [MgaRemix-10-Proserpina-RU](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
+**Release-10 (UPD: 260726):** [MgaRemix-10-Proserpina-RU](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
 
 + Kernel: **6.18.33**
 + Desktop: **Budgie-10.9.4 (upd: 160626)**
-+ Browser: **Brave-1.91.180**
-+ Amnezia-4.8.18.0, DNSCrypt-GUI-1.4, SS-Cloak-0.5.1, HyBridge-0.4.2, NaiveGUI-0.6, **Hiddify-4.1.1**, etc.
++ Browser: **Brave-1.92.144**
++ **Amnezia-4.8.21.0**, **DNSCrypt-GUI-1.4.1**, SS-Cloak-0.5.1, HyBridge-0.4.2, NaiveGUI-0.6, Hiddify-4.1.1, etc.
 + ...
-+ **USBRestore-1.1**, **fat32-repair-notifier-0.4**, **censor-1.0 (blacklist update)**
-+ **Photoflare-v1.7.1** (Qt6, gmic-qt filter suite, full Russian translation) and much more...
++ **android-tools-36.0.1**, **rootcerts-20260611.00**, **openssl-3.5.7**
++ **Photoflare-v1.7.2** (Qt6, gmic-qt filter suite, full Russian translation) and much more...
 
 ...изучение протоколов и технологий: TrustTunnel, Snell, mieru, Juicity, True IMAP Tunnel, etc.  
 
