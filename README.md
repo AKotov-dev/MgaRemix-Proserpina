@@ -22,7 +22,7 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 
 **Note 2:** The main development effort is focused on the Russian build. Builds for other languages are created by users themselves in `VirtualBox`.
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-10beta1.png)
+![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/Proserpina-Delirium2.png)
 
 ### Includes:
 
