@@ -11,7 +11,7 @@
 + **android-tools-36.0.1**, **rootcerts-20260611.00**, **openssl-3.5.7**
 + **Photoflare-v1.7.2** (Qt6, gmic-qt filter suite, full Russian translation) and much more...
 
-...изучение протоколов и технологий: TrustTunnel, Snell, mieru, Juicity, True IMAP Tunnel, etc.  
+...изучение протоколов и технологий: TrustTunnel, Snell, mieru, Juicity, True IMAP Tunnel, etc.
 
 ---
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
