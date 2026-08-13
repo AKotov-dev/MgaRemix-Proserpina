@@ -61,7 +61,8 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 + [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI)  
 + [LUKSKey (Change LUKS encrypted partition keys)](https://github.com/AKotov-dev/LUKSKey)  
 + [encrypt-decrypt (Symmetric AES-256 file/folder encryption)](https://github.com/AKotov-dev/encrypt-decrypt)  
-+ [ADBManager + android-udev-rules (Android device management via ADB)](https://github.com/AKotov-dev/adbmanager)  
++ [ADBManager + android-udev-rules (Android device management via ADB)](https://github.com/AKotov-dev/adbmanager)
++ [XDE-Proxy-GUI (Proxy manager with live switching for XFCE, LXDE and LXQt)](https://github.com/AKotov-dev/xde-proxy-gui)
 + …and more.
 
 ---
