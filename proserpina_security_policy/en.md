@@ -19,7 +19,7 @@ These recommendations are intended to reduce privacy and security risks when usi
    Do not provide personal, professional, or otherwise sensitive information to third-party search engines, voice assistants, or similar services unless necessary.
 
 5. **Use Censor to filter unwanted content.**
-   Configure Censor to block potentially harmful, unwanted, or toxic resources. Keep in mind that content filtering is not an anonymity mechanism.
+   Configure `Censor` to block potentially harmful, unwanted, or toxic resources. Keep in mind that content filtering is not an anonymity mechanism.
 
 6. **Use secure network connections when working in an untrusted network environment, if required by your threat model.**
    Proserpina provides various tools for establishing secure network connections. Choose the appropriate technology according to your threat model.
