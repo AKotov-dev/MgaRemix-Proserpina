@@ -22,7 +22,7 @@ These recommendations are intended to reduce privacy and security risks when usi
    Configure Censor to block potentially harmful, unwanted, or toxic resources. Keep in mind that content filtering is not an anonymity mechanism.
 
 6. **Use secure network connections when working in an untrusted network environment, if required by your threat model.**
-   Proserpina provides various tools for establishing secure network connections. Choose the appropriate technology according to your threat model and comply with applicable laws and regulations.
+   Proserpina provides various tools for establishing secure network connections. Choose the appropriate technology according to your threat model.
 
 7. **Keep personal and work-related digital identities separate.**
    Whenever possible, use separate accounts, browser profiles, or dedicated working environments for different categories of services. Avoid unnecessarily sharing cookies, browsing history, saved passwords, and other identifiers between environments.
