@@ -1,10 +1,10 @@
 # Proserpina Security Policy
 
-These recommendations are intended to reduce privacy and security risks when using Proserpina in Russian network environments and when interacting with Russian online services.
+These recommendations are intended to reduce privacy and security risks when using Proserpina in untrusted or restricted network environments, including when interacting with Russian online services.
 
-**Important:** These recommendations do not make the user completely anonymous or invulnerable. They are intended to reduce the amount of exposed data, limit trust in third-party services, and mitigate the consequences of a potential system compromise. Choose security measures according to your own threat model.
+**Important:** These recommendations do not make the user completely anonymous or invulnerable. They are intended to reduce the amount of exposed data, limit trust in third-party services, and mitigate the consequences of a potential system compromise. Choose security measures according to your own threat model and comply with applicable laws and regulations.
 
-## Recommendations for secure work in Russian network environments
+## Security recommendations
 
 1. **Use full-disk encryption.**
    Enable disk encryption with LUKS during system installation. This protects your data from unauthorized access when the computer is powered off or locked.
@@ -13,41 +13,42 @@ These recommendations are intended to reduce privacy and security risks when usi
    Encrypt files and directories containing personal, work-related, or otherwise sensitive information with `encrypt-decrypt` (AES-256), even if the system disk is already encrypted.
 
 3. **Use only trusted repositories for system updates.**
-   Whenever possible, avoid Russian mirrors and unknown third-party repositories. If a Russian mirror is unavoidable, verify package and repository cryptographic signatures. The physical location of a mirror alone does not prove that it is unsafe.
+   Whenever possible, use official and trusted software sources. Avoid unknown third-party repositories and unverified mirrors. If a third-party mirror is necessary, verify package and repository cryptographic signatures.
 
-4. **Minimize the use of Russian search engines and voice assistants.**
-   Avoid using Yandex, Alice, and similar services to search for or process sensitive information unless necessary.
+4. **Minimize the amount of sensitive information provided to search engines and voice assistants.**
+   Do not provide personal, professional, or otherwise sensitive information to third-party search engines, voice assistants, or similar services unless necessary.
 
-5. **Use Censor to block unwanted content.**
+5. **Use Censor to filter unwanted content.**
    Configure Censor to block potentially harmful, unwanted, or toxic resources. Keep in mind that content filtering is not an anonymity mechanism.
 
-6. **Use a VPN or proxy when working in the Russian network environment, if required by your threat model.**
-   Establish the connection **before** accessing sensitive resources. Do not rely on a single VPN server or protocol. When necessary, use alternative connection methods available in Proserpina, including AmneziaVPN, Hysteria2, NaiveProxy, Shadowsocks/Cloak, XRay, and others.
+6. **Use secure network connections when working in an untrusted network environment, if required by your threat model.**
+   Proserpina provides various tools for establishing secure network connections. Choose the appropriate technology according to your threat model and comply with applicable laws and regulations.
 
-7. **Keep your personal and Russian digital identities separate.**
-   Whenever possible, use separate accounts, browser profiles, or dedicated working environments for Russian services. Avoid unnecessarily sharing cookies, browsing history, saved passwords, and other identifiers between environments.
+7. **Keep personal and work-related digital identities separate.**
+   Whenever possible, use separate accounts, browser profiles, or dedicated working environments for different categories of services. Avoid unnecessarily sharing cookies, browsing history, saved passwords, and other identifiers between environments.
 
-8. **Minimize your presence on Russian social networks.**
-   Do not publish personal, professional, or sensitive information there. Whenever possible, avoid using the same accounts or identifiers across Russian and independent services.
+8. **Minimize your presence on services you do not trust.**
+   Do not publish personal, professional, or sensitive information there. Whenever possible, avoid using the same accounts or identifiers across unrelated services.
 
 9. **If you are required to use the MAX messenger, run it inside MaxContainer.**
-   MaxContainer isolates MAX and restricts its interaction with the host system by limiting access to devices, audio/video, DBus, and the filesystem.
+   MaxContainer isolates MAX and restricts its interaction with the host system, including access to devices, audio/video, DBus, and the filesystem.
+
    **Do not consider the container a guarantee of complete anonymity or security of MAX itself.** Its primary purpose is to reduce the application's potential impact on the host system and user data.
 
 10. **Do not grant applications unnecessary permissions.**
     Access to the camera, microphone, contacts, files, location, and other resources should only be granted when actually required.
 
-11. **Do not use Russian services to store sensitive data unless necessary.**
-    Avoid synchronizing documents, photos, contacts, passwords, browser history, and other sensitive data with such services unless there is a specific need to do so.
+11. **Do not use third-party services to store sensitive data unless necessary.**
+    Avoid synchronizing documents, photos, contacts, passwords, browser history, and other sensitive data with external services unless there is a specific need to do so.
 
 12. **Do not install untrusted software.**
-    Do not run RPM packages, scripts, browsers, VPN clients, or "special versions" of software obtained from Telegram, social networks, forums, or random file-sharing sites.
+    Do not run RPM packages, scripts, browsers, network clients, or other software obtained from unverified sources, including social networks, messengers, forums, and random file-sharing sites.
 
 13. **Do not install unknown root certificates.**
     If a website or application asks you to install an additional CA certificate, determine who issued it and why it is required. Installing an unknown root certificate adds a new trusted certificate authority to your system.
 
 14. **Use unique passwords and multi-factor authentication.**
-    Never reuse passwords from Russian services on other platforms. Use MFA, passkeys, or hardware security keys for important accounts whenever available.
+    Do not reuse the same password across different services. Use MFA, passkeys, or hardware security keys for important accounts whenever available.
 
 15. **Do not store passwords, tokens, or cryptographic keys in plain text.**
     SSH keys, API tokens, cookies, MFA recovery codes, and other secrets should not be stored in ordinary text files, publicly accessible directories, or scripts.
@@ -77,16 +78,18 @@ These recommendations are intended to reduce privacy and security risks when usi
     Do not connect unknown USB storage devices or other untrusted hardware to your working system. Grant ADB access to Android devices only when necessary.
 
 24. **Do not treat VPNs, encryption, or containers as absolute protection.**
-    LUKS protects data on a powered-off disk; `encrypt-decrypt` protects individual files; a VPN protects a particular part of the network path; MaxContainer restricts MAX's interaction with the host system. None of these mechanisms protects against every possible threat.
+    LUKS protects data on a powered-off disk; `encrypt-decrypt` protects individual files; secure network connections protect a particular part of the network path; MaxContainer restricts MAX's interaction with the host system. None of these mechanisms protects against every possible threat.
 
 25. **Follow the principle of minimum necessary trust.**
-    Before using any Russian service, ask yourself three questions: **What data am I providing? What permissions am I granting? Do I actually need to use this service?**
+    Before using any third-party service, ask yourself three questions: **What data am I providing? What permissions am I granting? Do I actually need to use this service?**
 
 ---
 
 ## Security principle
 
-Security is not provided by a single application or technology. Proserpina combines several layers of protection, but the overall security of the system also depends on user behavior, software sources, configuration, and the specific threat model.
+Security is not provided by a single application or technology. Proserpina combines several layers of protection, but the overall security of the system also depends on user behavior, software sources, system configuration, and the specific threat model.
 
-Use only the protection mechanisms that are appropriate for your situation, understand their limitations, and avoid relying on any single security measure.
+Use only the protection mechanisms that are appropriate for your situation, understand their limitations, and avoid relying on any single security mechanism.
+
+**The user remains responsible for complying with applicable laws and regulations and with the requirements of the services they use.**
 
