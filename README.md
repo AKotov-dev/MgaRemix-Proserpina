@@ -19,7 +19,7 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 
 **Note 1:** All links provided here are official and authentic. Links to the `MgaRemix-Proserpina` build found on other websites may be fake or invalid. The live images and software provided here are **not officially supported** by the Mageia developers.  
 
-[Logo and Trademark Policy](https://wiki.mageia.org/en/Logo_and_trademark_policy) • [Mageia License](https://www.mageia.org/en/about/license/)
+[Logo and Trademark Policy](https://wiki.mageia.org/en/Logo_and_trademark_policy) • [Mageia License](https://www.mageia.org/en/about/license/) • Proserpina Security Policy [RU](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/proserpina_security_policy/ru.md) [EN](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/proserpina_security_policy/en.md)
 
 **Note 2:** The main development effort is focused on the Russian build. Builds for other languages are created by users themselves in `VirtualBox`.
 
