@@ -1,8 +1,8 @@
 # Proserpina Security Policy
 
-These recommendations are intended to reduce privacy and security risks when using Proserpina in untrusted or restricted network environments, including when interacting with Russian online services.
+These recommendations are intended to reduce privacy and security risks when using Proserpina in untrusted or restricted network environments, including when interacting with online services.
 
-**Important:** These recommendations do not make the user completely anonymous or invulnerable. They are intended to reduce the amount of exposed data, limit trust in third-party services, and mitigate the consequences of a potential system compromise. Choose security measures according to your own threat model and comply with applicable laws and regulations.
+**Important:** These recommendations do not make the user completely anonymous or invulnerable. They are intended to reduce the amount of exposed data, limit trust in third-party services, and mitigate the consequences of a potential system compromise. Choose security measures according to your own threat model.
 
 ## Security recommendations
 
@@ -91,5 +91,4 @@ Security is not provided by a single application or technology. Proserpina combi
 
 Use only the protection mechanisms that are appropriate for your situation, understand their limitations, and avoid relying on any single security mechanism.
 
-**The user remains responsible for complying with applicable laws and regulations and with the requirements of the services they use.**
 
