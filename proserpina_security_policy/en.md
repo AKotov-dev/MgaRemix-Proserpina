@@ -31,7 +31,7 @@ These recommendations are intended to reduce privacy and security risks when usi
    Do not publish personal, professional, or sensitive information there. Whenever possible, avoid using the same accounts or identifiers across unrelated services.
 
 9. **If you are required to use the MAX messenger, run it inside MaxContainer.**
-   MaxContainer isolates MAX and restricts its interaction with the host system, including access to devices, audio/video, DBus, and the filesystem.
+   `MaxContainer` isolates MAX and restricts its interaction with the host system, including access to devices, audio/video, DBus, and the filesystem.
 
    **Do not consider the container a guarantee of complete anonymity or security of MAX itself.** Its primary purpose is to reduce the application's potential impact on the host system and user data.
 
@@ -69,7 +69,7 @@ These recommendations are intended to reduce privacy and security risks when usi
     Pay attention to unexpected network connections made by applications. An unknown application that establishes persistent connections to external servers should be investigated.
 
 21. **Use secure DNS.**
-    When appropriate, configure DNSCrypt-GUI or another trusted secure DNS mechanism. This can protect DNS queries against certain types of interception and manipulation, but **does not provide complete anonymity**.
+    When appropriate, configure `DNSCrypt-GUI` or another trusted secure DNS mechanism. This can protect DNS queries against certain types of interception and manipulation, but **does not provide complete anonymity**.
 
 22. **Limit telemetry and automatic synchronization.**
     Disable unnecessary diagnostic data collection and automatic synchronization with external services, especially when it involves personal or sensitive information.
