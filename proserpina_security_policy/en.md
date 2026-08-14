@@ -2,7 +2,7 @@
 
 These recommendations are intended to reduce privacy and security risks when using Proserpina in untrusted or restricted network environments, including when interacting with online services.
 
-**Important:** These recommendations do not make the user completely anonymous or invulnerable. They are intended to reduce the amount of exposed data, limit trust in third-party services, and mitigate the consequences of a potential system compromise. Choose security measures according to your own threat model.
+**Important:** These recommendations do not make the user completely anonymous or invulnerable. They are intended to reduce the amount of exposed data, limit trust in third-party services, and mitigate the consequences of a potential system compromise.
 
 ## Security recommendations
 
