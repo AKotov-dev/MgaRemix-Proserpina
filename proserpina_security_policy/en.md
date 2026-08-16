@@ -7,7 +7,7 @@ These recommendations are intended to reduce privacy and security risks when usi
 ## Security recommendations
 
 1. **Use full-disk encryption.**
-   Enable disk encryption with LUKS during system installation. This protects your data from unauthorized access when the computer is powered off or locked.
+   Enable disk encryption with LUKS during system installation. This protects your data from unauthorized access when the computer is powered off.
 
 2. **Use additional encryption for sensitive data.**
    Encrypt files and directories containing personal, work-related, or otherwise sensitive information with `encrypt-decrypt` (AES-256), even if the system disk is already encrypted.
