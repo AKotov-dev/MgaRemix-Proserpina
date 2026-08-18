@@ -1,15 +1,15 @@
 # MgaRemix-Proserpina
 
-**Release-10 (UPD: 260726):** [MgaRemix-10-Proserpina-RU](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
+**Release-10 (UPD: 180826):** [MgaRemix-10-Proserpina-RU](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
 
-+ Kernel: **6.18.33**
-+ Desktop: **Budgie-10.9.4 (upd: 160626)**
++ Kernel: **6.18.39**
++ Desktop: Budgie-10.9.4 (upd: 160626)
 + Wallpaper: [proserpina-delirium](https://github.com/AKotov-dev/MgaRemix-Tools/blob/main/mgaremix-wallpaper/proserpina-delirium2.png)
-+ Browser: **Brave-1.92.144**
-+ **Amnezia-4.8.21.0**, **DNSCrypt-GUI-1.4.1**, SS-Cloak-0.5.1, HyBridge-0.4.2, NaiveGUI-0.6, Hiddify-4.1.1, etc.
++ Browser: **Brave-1.93.136** + WebRTC Leak Shield
++ **Amnezia-5.0.0.5**, DNSCrypt-GUI-1.4.1, SS-Cloak-0.5.1, HyBridge-0.4.2, NaiveGUI-0.6, Hiddify-4.1.1, etc.
 + ...
-+ **android-tools-36.0.1**, **rootcerts-20260611.00**, **openssl-3.5.7**
-+ **Photoflare-v1.7.2** (Qt6, gmic-qt filter suite, full Russian translation) and much more...
++ **android-tools-37.0.0**, **rootcerts-20260714.00**, openssl-3.5.7, **xde-proxy-gui-0.5**
++ **Photoflare-v1.7.4** (Qt6, gmic-qt filter suite, full Russian translation) and much more...
 
 ...изучение протоколов и технологий: TrustTunnel, Snell, mieru, Juicity, **True IMAP Tunnel**, etc.
 
