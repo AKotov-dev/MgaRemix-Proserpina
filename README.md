@@ -71,4 +71,3 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 ---
 
 **I wish you a pleasant and safe computing experience.**
-
