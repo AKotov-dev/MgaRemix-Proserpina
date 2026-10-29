@@ -15,12 +15,12 @@
 ...изучение протоколов и технологий: TrustTunnel, Snell, mieru, Juicity, **True IMAP Tunnel**, etc.
 
 ---
+[Logo and Trademark Policy](https://wiki.mageia.org/en/Logo_and_trademark_policy) • [Mageia License](https://www.mageia.org/en/about/license/) • Proserpina Security Policy [RU](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/proserpina_security_policy/ru.md) [EN](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/proserpina_security_policy/en.md)
+
 **MgaRemix-Proserpina** is a live, installable flash drive distribution based on Mageia Linux.  
 Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framework, it is designed to provide comfortable and secure operation in networks with restricted or limited access, maintaining connectivity and privacy.
 
 **Note 1:** All links provided here are official and authentic. Links to the `MgaRemix-Proserpina` build found on other websites may be fake or invalid. The live images and software provided here are **not officially supported** by the Mageia developers.  
-
-[Logo and Trademark Policy](https://wiki.mageia.org/en/Logo_and_trademark_policy) • [Mageia License](https://www.mageia.org/en/about/license/) • Proserpina Security Policy [RU](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/proserpina_security_policy/ru.md) [EN](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/proserpina_security_policy/en.md)
 
 **Note 2:** The main development effort is focused on the Russian build. Builds for other languages are created by users themselves in `VirtualBox`.
 
