@@ -1,4 +1,4 @@
-[1940's Vintage Jazz](https://www.youtube.com/watch?v=G-khPbXeaeU)
+[1940's Vintage Jazz](https://www.youtube.com/watch?v=XJGmb4hUmO0&t=1032s)
 
 # ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/maple32-3.png) MgaRemix-Proserpina
 
