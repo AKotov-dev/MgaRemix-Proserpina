@@ -2,17 +2,17 @@
 
 # ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/maple32-3.png) MgaRemix-Proserpina
 
-**Release-10 (UPD: 291026):** [MgaRemix-10-Proserpina-RU](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
+**Release-10 (UPD: 171126):** [MgaRemix-10-Proserpina-RU](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
 
 + Kernel: **6.18.55**
 + Desktop: Budgie-10.9.4 (upd: 160626)
 + Wallpaper: [proserpina-delirium](https://github.com/AKotov-dev/MgaRemix-Tools/blob/main/mgaremix-wallpaper/proserpina-delirium2.png)
-+ Browser: **Brave-1.98.62** + WebRTC Leak Shield
++ Browser: **Brave-1.99.57** + WebRTC Leak Shield
 + [Безопасные сертификаты Минцифры](https://github.com/AKotov-dev/russiancrt)
-+ Amnezia-5.0.3.0, **DNSCrypt-GUI-1.4.2**, SS-Cloak-0.6, **HyBridge-0.5**, **NaiveGUI-0.6.2**, Hiddify-4.1.1, etc.
-+ **ADBManager-4.1**, **TOTPgen-0.9**, **WDGUI-0.3**
-+ android-tools-37.0.0, **rootcerts-20261020.00**, **openssl-3.5.9**, SReality-0.2
-+ **Photoflare-1.7.5** (Qt6, gmic-qt filter suite, full Russian translation) and much more...
++ **Amnezia-5.1.0.6**, DNSCrypt-GUI-1.4.2, SS-Cloak-0.6, HyBridge-0.5, **NaiveGUI-0.6.3**, **Hiddify-5.9.8**, etc.
++ ADBManager-4.1, TOTPgen-0.9, WDGUI-0.3, **SShuttle-GUI-0.4**
++ android-tools-37.0.0, rootcerts-20261020.00, openssl-3.5.9, SReality-0.2
++ Photoflare-1.7.5 (Qt6, gmic-qt filter suite, full Russian translation) and much more...
 
 ...изучение протоколов и технологий: TrustTunnel, Snell, mieru, Juicity, **True IMAP Tunnel**, etc.
 
