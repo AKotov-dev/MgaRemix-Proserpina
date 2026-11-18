@@ -30,17 +30,17 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 
 ### Includes:
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/amneziavpn-36.png) **AmneziaVPN** — Multi-protocol VPN client - [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia)
+![](./png/amneziavpn-36.png) **AmneziaVPN** — Multi-protocol VPN client - [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/censor-36.png) **Censor** — Parental control application for scheduled content blocking
+![](./png/censor-36.png) **Censor** — Parental control application for scheduled content blocking
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/ss-cloak-client-36.png) **SS-Cloak** — Shadowsocks-Rust + Cloak obfuscator (GUI client and server)
+![](./png/ss-cloak-client-36.png) **SS-Cloak** — Shadowsocks-Rust + Cloak obfuscator (GUI client and server)
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/hybridge-36.png) **HyBridge** - Simple Hysteria2 client and server configurator
+![](./png/hybridge-36.png) **HyBridge** - Simple Hysteria2 client and server configurator
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/naivegui-36.png) **NaiveGUI** - Client/Server configuration GUI for NaiveProxy and Caddy
+![](./png/naivegui-36.png) **NaiveGUI** - Client/Server configuration GUI for NaiveProxy and Caddy
 
-![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/hiddify-36-1.png)  **Hiddify** - Multi-platform auto-proxy client - [Hiddify-RPM](https://github.com/AKotov-dev/Hiddify-RPM)
+![](./png/hiddify-36-1.png)  **Hiddify** - Multi-platform auto-proxy client - [Hiddify-RPM](https://github.com/AKotov-dev/Hiddify-RPM)
 
 ### Other Software:
 
