@@ -30,17 +30,32 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 
 ### Includes:
 
-![](./png/amneziavpn-36.png) **AmneziaVPN** — Multi-protocol VPN client - [AmneziaVPN](https://github.com/AKotov-dev/AmneziaOnMageia)
-
-![](./png/censor-36.png) **Censor** — Parental control application for scheduled content blocking
-
-![](./png/ss-cloak-client-36.png) **SS-Cloak** — Shadowsocks-Rust + Cloak obfuscator (GUI client and server)
-
-![](./png/hybridge-36.png) **HyBridge** - Simple Hysteria2 client and server configurator
-
-![](./png/naivegui-36.png) **NaiveGUI** - Client/Server configuration GUI for NaiveProxy and Caddy
-
-![](./png/hiddify-36-1.png)  **Hiddify** - Multi-platform auto-proxy client - [Hiddify-RPM](https://github.com/AKotov-dev/Hiddify-RPM)
+<table>
+  <tr>
+    <td align="center"><img src="./png/amneziavpn-36.png" width="36" height="36" alt="AmneziaVPN"></td>
+    <td><strong>AmneziaVPN</strong> — Multi-protocol VPN client — <a href="https://github.com/AKotov-dev/AmneziaOnMageia">AmneziaVPN</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./png/censor-36.png" width="36" height="36" alt="Censor"></td>
+    <td><strong>Censor</strong> — Parental control application for scheduled content blocking</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./png/ss-cloak-client-36.png" width="36" height="36" alt="SS-Cloak"></td>
+    <td><strong>SS-Cloak</strong> — Shadowsocks-Rust + Cloak obfuscator (GUI client and server)</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./png/hybridge-36.png" width="36" height="36" alt="HyBridge"></td>
+    <td><strong>HyBridge</strong> — Simple Hysteria2 client and server configurator</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./png/naivegui-36.png" width="36" height="36" alt="NaiveGUI"></td>
+    <td><strong>NaiveGUI</strong> — Client/Server configuration GUI for NaiveProxy and Caddy</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./png/hiddify-36-1.png" width="36" height="36" alt="Hiddify"></td>
+    <td><strong>Hiddify</strong> — Multi-platform auto-proxy client — <a href="https://github.com/AKotov-dev/Hiddify-RPM">Hiddify-RPM</a></td>
+  </tr>
+</table>
 
 ### Other Software:
 
