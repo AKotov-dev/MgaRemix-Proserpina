@@ -1,6 +1,6 @@
-[1940's Vintage Jazz](https://www.youtube.com/watch?v=XJGmb4hUmO0&t=1s)
+[1940's Vintage Jazz](https://www.youtube.com/watch?v=XJGmb4hUmO0&t=0s)
 
-# ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/maple32-3.png) MgaRemix-Proserpina
+# ![](https://github.com/AKotov-dev/MgaRemix-Proserpina/blob/main/png/snowflakes-36-1.png) MgaRemix-Proserpina
 
 **Release-10 (UPD: 171126):** [MgaRemix-10-Proserpina-RU](https://drive.google.com/drive/folders/174Cya1NIWOag4BRP0PYgXrT8Jtn1djym?usp=drive_link)
 
