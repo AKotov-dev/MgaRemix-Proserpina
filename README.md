@@ -48,6 +48,10 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
     <td><strong>HyBridge</strong> — Simple Hysteria2 client and server configurator</td>
   </tr>
   <tr>
+    <td align="center"><img src="./png/sreality-36.png" width="36" height="36" alt="SReality"></td>
+    <td><strong>SReality</strong> — A simple graphical VLESS + REALITY proxy client</td>
+  </tr>
+  <tr>
     <td align="center"><img src="./png/naivegui-36.png" width="36" height="36" alt="NaiveGUI"></td>
     <td><strong>NaiveGUI</strong> — Client/Server configuration GUI for NaiveProxy and Caddy</td>
   </tr>
