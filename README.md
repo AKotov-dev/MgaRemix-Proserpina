@@ -83,7 +83,7 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 + [NaiveGUI (Client/Server configuration GUI for NaiveProxy and Caddy)](https://github.com/AKotov-dev/NaiveGUI)
 + [SSTP-Connector (Secure Socket Tunneling Protocol)](https://github.com/AKotov-dev/SSTP-Connector)
 + [IPsecCaManager (NM: L2TP/IPsec & IKEv2/IPsec)](https://github.com/AKotov-dev/IPsecCaManager)
-+ [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI)
++ [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI) - archived
 + [LUKSKey (Change LUKS encrypted partition keys)](https://github.com/AKotov-dev/LUKSKey)
 + [encrypt-decrypt (Symmetric AES-256 file/folder encryption)](https://github.com/AKotov-dev/encrypt-decrypt)
 + [ADBManager + android-udev-rules (Android device management via ADB)](https://github.com/AKotov-dev/adbmanager)
