@@ -37,23 +37,23 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
   </tr>
   <tr>
     <td align="center"><img src="./png/censor-36.png" width="36" height="36" alt="Censor"></td>
-    <td><strong>Censor</strong> — Parental control application for scheduled content blocking</td>
+    <td><strong>Censor</strong> — Parental control <a href="https://github.com/AKotov-dev/censor">application</a> for scheduled content blocking</td>
   </tr>
   <tr>
     <td align="center"><img src="./png/ss-cloak-client-36.png" width="36" height="36" alt="SS-Cloak"></td>
-    <td><strong>SS-Cloak</strong> — Shadowsocks-Rust + Cloak obfuscator (GUI client and server)</td>
+    <td><strong>SS-Cloak</strong> — Shadowsocks-Rust + Cloak obfuscator (<a href="https://github.com/AKotov-dev/SS-Cloak">GUI Client and Server</a>)</td>
   </tr>
   <tr>
     <td align="center"><img src="./png/hybridge-36.png" width="36" height="36" alt="HyBridge"></td>
-    <td><strong>HyBridge</strong> — Simple Hysteria2 client and server configurator</td>
+    <td><strong>HyBridge</strong> — Simple Hysteria2 <a href="https://github.com/AKotov-dev/HyBridge">Client and Server configurator</a></td>
   </tr>
   <tr>
     <td align="center"><img src="./png/sreality-36.png" width="36" height="36" alt="SReality"></td>
-    <td><strong>SReality</strong> — A simple graphical VLESS + REALITY proxy client</td>
+    <td><strong>SReality</strong> — A simple graphical VLESS + REALITY <a href="https://github.com/AKotov-dev/SReality">proxy client</a></td>
   </tr>
   <tr>
     <td align="center"><img src="./png/naivegui-36.png" width="36" height="36" alt="NaiveGUI"></td>
-    <td><strong>NaiveGUI</strong> — Client/Server configuration GUI for NaiveProxy and Caddy</td>
+    <td><strong>NaiveGUI</strong> — Client/Server <a href="https://github.com/AKotov-dev/NaiveGUI">configuration GUI</a> for NaiveProxy and Caddy</td>
   </tr>
   <tr>
     <td align="center"><img src="./png/hiddify-36-1.png" width="36" height="36" alt="Hiddify"></td>
@@ -65,7 +65,6 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 
 + [DNSCrypt-GUI](https://github.com/AKotov-dev/dnscrypt-gui)
 + [DPN-Client (Deeper Network client)](https://github.com/AKotov-dev/DPN-client)
-+ [Censor (Scheduled Website Blocker)](https://github.com/AKotov-dev/censor)
 + [WarpGUI (GUI for Cloudflare ™ WARP)](https://github.com/AKotov-dev/warpgui)
 + [Juggler (VPN Switch)](https://github.com/AKotov-dev/juggler)
 + [Lovpn (.ovpn Loader)](https://github.com/AKotov-dev/lovpn)
@@ -73,14 +72,10 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
 + [LuntikWG (WireGuard Connector)](https://github.com/AKotov-dev/luntikwg)
 + [OpenVPN-GUI (Classic)](https://github.com/AKotov-dev/OpenVPN-GUI)
 + [ProtonVPN-GUI (ZoogVPN and similar)](https://github.com/AKotov-dev/protonvpn-gui)
-+ [SReality (the simplest proxy client vless-reality + 3x-ui)](https://github.com/AKotov-dev/SReality)
 + [SSHProxy (localhost:8080)](https://github.com/AKotov-dev/SSHProxy)
 + [SShuttle-GUI (VPS integration)](https://github.com/AKotov-dev/SShuttle-GUI)
 + [SS-Obfuscator (Shadowsocks client and server with obfuscation)](https://github.com/AKotov-dev/SS-Obfuscator)
-+ [SS-Cloak — Shadowsocks-Rust + Cloak obfuscator (GUI client & server)](https://github.com/AKotov-dev/SS-Cloak)
 + [TOTPgen (Simple TOTP/HOTP Password Generator)](https://github.com/AKotov-dev/TOTPgen)
-+ [HyBridge (Simple Hysteria2 client and server configurator)](https://github.com/AKotov-dev/HyBridge)
-+ [NaiveGUI (Client/Server configuration GUI for NaiveProxy and Caddy)](https://github.com/AKotov-dev/NaiveGUI)
 + [SSTP-Connector (Secure Socket Tunneling Protocol)](https://github.com/AKotov-dev/SSTP-Connector)
 + [IPsecCaManager (NM: L2TP/IPsec & IKEv2/IPsec)](https://github.com/AKotov-dev/IPsecCaManager)
 + [XRayGUI (Proxy connector: vless, vmess, ss, trojan)](https://github.com/AKotov-dev/XRayGUI) - archived
