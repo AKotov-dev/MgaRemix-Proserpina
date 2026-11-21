@@ -41,7 +41,7 @@ Built using the [MgaRemix](https://github.com/AKotov-dev/MgaRemix-Tools) framewo
   </tr>
   <tr>
     <td align="center"><img src="./png/ss-cloak-client-36.png" width="36" height="36" alt="SS-Cloak"></td>
-    <td><strong>SS-Cloak</strong> — Shadowsocks-Rust + Cloak obfuscator (<a href="https://github.com/AKotov-dev/SS-Cloak">GUI Client and Server</a>)</td>
+    <td><strong>SS-Cloak</strong> — Shadowsocks-Rust + Cloak obfuscator - <a href="https://github.com/AKotov-dev/SS-Cloak">GUI Client and Server</a></td>
   </tr>
   <tr>
     <td align="center"><img src="./png/hybridge-36.png" width="36" height="36" alt="HyBridge"></td>
